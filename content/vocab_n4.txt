@@ -1,0 +1,231 @@
+# 1|Daily actions
+あつまる|to gather, to come together|verb
+あつめる|to collect, to gather (something)|verb
+いそぐ|to hurry|verb
+おくれる|to be late|verb
+おこす|to wake (someone) up|verb
+おこなう|to carry out, to hold (an event)|verb
+おぼえる|to remember, to memorize|verb
+かたづける|to tidy up|verb
+かよう|to commute, to attend regularly|verb
+きめる|to decide|verb
+くらべる|to compare|verb
+さがす|to look for|verb
+しらべる|to look into, to look up|verb
+そだてる|to raise, to bring up|verb
+ならべる|to line up, to arrange|verb
+はこぶ|to carry, to transport|verb
+ひろう|to pick up|verb
+まにあう|to be in time|verb
+みつかる|to be found|verb
+みつける|to find, to discover|verb
+# 2|Home and household
+かがみ|mirror|noun
+カーテン|curtain|noun
+だいどころ|kitchen|noun
+げんかん|entrance hall|noun
+ゆか|floor|noun
+かべ|wall|noun
+ひきだし|drawer|noun
+せんたくき|washing machine|noun
+そうじき|vacuum cleaner|noun
+れいぼう|air conditioning (cooling)|noun
+だんぼう|heating|noun
+でんきスタンド|desk lamp|noun
+ふとん|futon, bedding|noun
+まくら|pillow|noun
+タオル|towel|noun
+せっけん|soap|noun
+はみがき|toothpaste, tooth brushing|noun
+ごみ|rubbish, garbage|noun
+ふくろ|bag, sack|noun
+こわれる|to break, to be broken|verb
+# 3|Food and cooking
+あじ|taste, flavor|noun
+におい|smell|noun
+やく|to grill, to bake|verb
+ゆでる|to boil|verb
+いためる|to stir-fry|verb
+あたためる|to warm up, to heat|verb
+さめる|to cool down, to get cold|verb
+こおり|ice|noun
+しょうゆ|soy sauce|noun
+みそ|miso, soybean paste|noun
+おかず|side dish|noun
+ざいりょう|ingredients, materials|noun
+めしあがる|to eat, to drink (honorific)|verb
+いただく|to receive, to eat (humble)|verb
+ごちそう|feast, treat|noun
+うすい|thin, weak (taste)|i-adjective
+こい|thick, strong (taste)|i-adjective
+にがい|bitter|i-adjective
+すっぱい|sour|i-adjective
+しょっぱい|salty|i-adjective
+# 4|Travel and transport
+あんない|guidance, information|noun
+かいさつ|ticket gate|noun
+ホーム|platform|noun
+のりかえ|transfer (trains)|noun
+りょかん|Japanese-style inn|noun
+よやく|reservation|noun
+ちかみち|shortcut|noun
+おうふく|round trip|noun
+かたみち|one-way|noun
+ていきけん|commuter pass|noun
+はっしゃ|departure (of a train)|noun
+とうちゃく|arrival|noun
+しゅっぱつ|departure|noun
+おりる|to get off, to go down|verb
+とおる|to pass through|verb
+まわる|to turn, to go around|verb
+まよう|to get lost, to hesitate|verb
+こむ|to be crowded|verb
+すく|to become empty|verb
+ぎょうれつ|line, queue|noun
+# 5|Health and body
+いのち|life|noun
+けが|injury|noun
+ちりょう|medical treatment|noun
+かんびょう|nursing care|noun
+ねつがでる|to get a fever|expression
+せき|cough|noun
+はなみず|runny nose|noun
+いたむ|to hurt, to ache|verb
+なおる|to recover, to be cured|verb
+うつる|to be infected, to be transferred|verb
+たおれる|to fall down, to collapse|verb
+けんこう|health|noun
+ふとる|to gain weight|verb
+やせる|to lose weight, to become thin|verb
+せなか|back (body)|noun
+こし|waist, lower back|noun
+ゆび|finger|noun
+つめ|nail|noun
+ほね|bone|noun
+はいしゃ|dentist|noun
+# 6|School and work
+かいぎ|meeting, conference|noun
+しりょう|materials, data|noun
+うちあわせ|preliminary meeting|noun
+もうしこみ|application|noun
+きょうみ|interest|noun
+しゅうしょく|finding employment|noun
+そつぎょう|graduation|noun
+にゅうがく|entering school|noun
+しけん|examination|noun
+せいせき|grades, results|noun
+じゅぎょう|class, lesson|noun
+れんらく|contact|noun
+ほうこく|report|noun
+しょるい|documents|noun
+かいしゃいん|company employee|noun
+ぎじゅつ|technology, skill|noun
+けいかく|plan, schedule|noun
+かんがえ|thought, idea|noun
+まとめる|to put together, to summarize|verb
+つとめる|to work (for a company)|verb
+# 7|Feelings and character
+うれしい|glad, happy|i-adjective
+かなしい|sad|i-adjective
+さびしい|lonely|i-adjective
+くやしい|frustrating, regrettable|i-adjective
+はずかしい|embarrassed, shy|i-adjective
+おそろしい|frightening|i-adjective
+やさしい|kind, gentle|i-adjective
+きびしい|strict, severe|i-adjective
+まじめ|serious, diligent|na-adjective
+しんせつ|kind|na-adjective
+だめ|no good, useless|na-adjective
+ざんねん|regrettable, disappointing|na-adjective
+しんぱい|worry, anxious|na-adjective
+たいせつ|important, precious|na-adjective
+たいへん|hard, serious, awful|na-adjective
+ふくざつ|complicated|na-adjective
+かんたん|easy, simple|na-adjective
+ていねい|polite, careful|na-adjective
+らく|easy, comfortable|na-adjective
+わがまま|selfish|na-adjective
+# 8|Weather and nature
+かみなり|thunder|noun
+たいふう|typhoon|noun
+じしん|earthquake|noun
+つゆ|rainy season|noun
+くもる|to become cloudy|verb
+はれる|to clear up (weather)|verb
+ふく|to blow (wind)|verb
+かわく|to dry, to become thirsty|verb
+ぬれる|to get wet|verb
+しずむ|to sink, to set (sun)|verb
+のぼる|to rise, to climb|verb
+きおん|air temperature|noun
+しつど|humidity|noun
+こうずい|flood|noun
+しぜん|nature|noun
+かんきょう|environment|noun
+どうぶつ|animal|noun
+しょくぶつ|plant|noun
+もり|forest|noun
+みずうみ|lake|noun
+# 9|Shopping and money
+ねだん|price|noun
+りょうきん|fee, charge|noun
+おつり|change (money)|noun
+りょうしゅうしょ|receipt|noun
+ぜいきん|tax|noun
+ぎんこう|bank|noun
+かし|loan, lending|noun
+はらう|to pay|verb
+ふえる|to increase|verb
+へる|to decrease|verb
+あげる|to raise, to give|verb
+さげる|to lower, to hang|verb
+たりる|to be enough|verb
+あまる|to be left over|verb
+かえる|to exchange, to change|verb
+とどく|to arrive, to reach|verb
+とどける|to deliver, to report|verb
+おくる|to send|verb
+つつむ|to wrap|verb
+うれる|to sell (well)|verb
+# 10|Time, frequency and adverbs
+かならず|without fail, certainly|adverb
+きっと|surely, definitely|adverb
+たぶん|probably|adverb
+もうすぐ|soon, shortly|adverb
+さっき|a little while ago|adverb
+やっと|at last, finally|adverb
+ずっと|all along, much more|adverb
+そろそろ|about time to, soon|adverb
+ぜひ|by all means|adverb
+たまに|occasionally, once in a while|adverb
+めったに|rarely (with negative)|adverb
+ほとんど|almost, mostly|adverb
+すぐに|immediately|adverb
+とつぜん|suddenly|adverb
+だんだん|gradually|adverb
+いつも|always|adverb
+まだ|still, not yet|adverb
+とくに|especially|adverb
+やはり|as expected, after all|adverb
+けっこう|fairly, quite|adverb
+# 11|Society and communication
+ニュース|news|noun
+ほうそう|broadcast|noun
+しんぶん|newspaper|noun
+でんぽう|telegram|noun
+しゅうかん|habit, custom|noun
+ぶんか|culture|noun
+れきし|history|noun
+せいかつ|life, living|noun
+しゃかい|society|noun
+こくさい|international|noun
+けいざい|economy|noun
+せいじ|politics|noun
+ほうりつ|law|noun
+きそく|rule, regulation|noun
+じこ|accident|noun
+じけん|incident, case|noun
+ひがい|damage|noun
+やくそく|promise, appointment|noun
+そうだん|consultation, advice|noun
+しょうかい|introduction|noun

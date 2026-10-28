@@ -1,0 +1,20 @@
+{
+  "name": "kaizen-n4",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "data": "python3 scripts/import_desktop.py",
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/build.mjs && npx --yes serve dist -l 8080",
+    "cap:sync": "npm run build && npx cap sync android",
+    "android:debug": "npm run cap:sync && cd android && ./gradlew assembleDebug",
+    "android:release": "npm run cap:sync && cd android && ./gradlew assembleRelease"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "puppeteer-core": "^23.5.0"
+  }
+}

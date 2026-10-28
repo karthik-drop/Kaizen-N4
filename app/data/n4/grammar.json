@@ -1,0 +1,5333 @@
+{
+ "points": [
+  {
+   "id": "src-1-3",
+   "lesson": 1,
+   "p": "～んです",
+   "m": "Explains the cause or reason why something is. [Because ...]",
+   "form": "Main Sentence んです。",
+   "note": "Use んです to give a reason as an answer, or to add the reason or cause for what you just stated. (～のです → ～んです)",
+   "ex": [
+    [
+     "どうして遅れたんですか。",
+     "Why were you late?"
+    ],
+    [
+     "電車が遅れたんです。",
+     "Because the train was late."
+    ],
+    [
+     "どうしたんですか。",
+     "What's the matter?"
+    ],
+    [
+     "頭が痛いんです。",
+     "Because my head hurts."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 01.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Explains the cause or reason why something is. [Because ...]",
+    "o": [
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。",
+     "V て-form いただけませんか。"
+    ],
+    "a": 0,
+    "e": "Use んです to give a reason as an answer, or to add the reason or cause for what you just stated. (～のです → ～んです)"
+   }
+  },
+  {
+   "id": "src-1-4",
+   "lesson": 1,
+   "p": "～んですか",
+   "m": "Using んです in question form.",
+   "form": "Main Sentence んですか。",
+   "note": "Use it when the speaker guesses the reason or cause of something and confirms whether it is correct, or asks for information about what he or she has seen or heard.",
+   "ex": [
+    [
+     "山口さん、英語が上手ですね。外国に住んでいたんですか。",
+     "Ms. Yamaguchi, you speak very good English. Have you lived abroad?"
+    ],
+    [
+     "毎日晩ごはんを作りますか。",
+     "Do you cook dinner every day?"
+    ],
+    [
+     "いいえ、時間がないんです。",
+     "No, (because) I don't have time."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 01.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Using んです in question form.",
+    "o": [
+     "Main Sentence んですか。",
+     "Main Sentence んです。",
+     "～んですが、～。",
+     "V て-form いただけませんか。"
+    ],
+    "a": 0,
+    "e": "Use it when the speaker guesses the reason or cause of something and confirms whether it is correct, or asks for information about what he or she has seen or heard."
+   }
+  },
+  {
+   "id": "src-1-5",
+   "lesson": 1,
+   "p": "～んですが、～",
+   "m": "Introducing a topic before a request or invitation.",
+   "form": "～んですが、～。",
+   "note": "Use ～んですが to set the scene first, and then make your request, question or invitation in the second part.",
+   "ex": [
+    [
+     "お金がないんですが、明日はらってもいいですか。",
+     "Umm.. I have no money, is it okay to pay tomorrow?"
+    ],
+    [
+     "わたしもクリスティーナさんのパーティーへ行くんですが、いっしょに行きませんか。",
+     "Umm.. I'm also going to Kristina's birthday party, do you want to go together?"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 01.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Introducing a topic before a request or invitation.",
+    "o": [
+     "～んですが、～。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "V て-form いただけませんか。"
+    ],
+    "a": 0,
+    "e": "Use ～んですが to set the scene first, and then make your request, question or invitation in the second part."
+   }
+  },
+  {
+   "id": "src-1-6",
+   "lesson": 1,
+   "p": "～ていただけませんか",
+   "m": "Could you please ...? / Would you please do me the favor of ~ing?",
+   "form": "V て-form いただけませんか。",
+   "note": "A very polite way to ask someone to do something for you. Use the て-form of the verb followed by いただけませんか。",
+   "ex": [
+    [
+     "やり方が分からないんですが、教えていただけませんか。",
+     "I don't know how to do it, could you please teach me?"
+    ],
+    [
+     "レポートを終わりました。出す前に見ていただけませんか。",
+     "I finished the report. Could you please check it before I submit it?"
+    ],
+    [
+     "そちらで電話をわすれましたが、さがしていただけませんか。",
+     "I forgot my phone there. Could you please search it for me?"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 01.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Could you please ...? / Would you please do me the favor of ~ing?",
+    "o": [
+     "V て-form いただけませんか。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "A very polite way to ask someone to do something for you. Use the て-form of the verb followed by いただけませんか。"
+   }
+  },
+  {
+   "id": "src-1-7",
+   "lesson": 1,
+   "p": "～たらいいですか",
+   "m": "What / When / Where / Which / How / Who should I ...?",
+   "form": "V た-formら いいですか。",
+   "note": "Use a question word with Vたらいいですか to ask for advice or instructions about what you should do.",
+   "ex": [
+    [
+     "おなかがすいた。どこで食べたらいいですか。",
+     "I'm hungry, where should I eat?"
+    ],
+    [
+     "おみやげを買いたいんですが、何を買ったらいいですか。",
+     "I want to buy Japanese souvenirs, what should I buy?"
+    ],
+    [
+     "パスポートをなくなりましたが、どうしたらいいですか。",
+     "I lost my passport, what should I do?"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 01.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "What / When / Where / Which / How / Who should I ...?",
+    "o": [
+     "V た-formら いいですか。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use a question word with Vたらいいですか to ask for advice or instructions about what you should do."
+   }
+  },
+  {
+   "id": "src-1-8",
+   "lesson": 1,
+   "p": "が vs は",
+   "m": "The object particle が is replaced by the topic particle は.",
+   "form": "N (object) は 好きです・きらいです / 上手です・下手です / あります",
+   "note": "が: the subject is the unknown (new information). は: the predicate is the unknown, so the noun becomes the topic.",
+   "ex": [
+    [
+     "くだものは好きじゃないと思います。",
+     "Is it better to give her fruits? / I think she doesn't like fruits."
+    ],
+    [
+     "ごめん、スポーツは上手じゃないんです。",
+     "Let's play basketball. / Sorry, I'm not good with sports."
+    ],
+    [
+     "いいえ、テストはあります。",
+     "Don't we have a test today? / Yes, we have a test."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 01.pptx",
+   "slide": 8,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "The object particle が is replaced by the topic particle は.",
+    "o": [
+     "N (object) は 好きです・きらいです / 上手です・下手です / あります",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "が: the subject is the unknown (new information). は: the predicate is the unknown, so the noun becomes the topic."
+   }
+  },
+  {
+   "id": "src-2-3",
+   "lesson": 2,
+   "p": "可能形 (potential form)",
+   "m": "Verbs expressing the ability to do something: \"can\" or \"be able to\".",
+   "form": "Verb ます-stem → える／られる + ます",
+   "note": "Group 1: change the last sound to the え-row (書きます → 書けます). Group 2: add られ (食べます → 食べられます). Group 3: 来ます → こられます, します → できます.",
+   "ex": [
+    [
+     "書きます → 書けます",
+     "I can write."
+    ],
+    [
+     "買います → 買えます",
+     "I can buy."
+    ],
+    [
+     "食べます → 食べられます",
+     "I can eat."
+    ],
+    [
+     "します → できます",
+     "I can do it."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 02.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Verbs expressing the ability to do something: \"can\" or \"be able to\".",
+    "o": [
+     "Verb ます-stem → える／られる + ます",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Group 1: change the last sound to the え-row (書きます → 書けます). Group 2: add られ (食べます → 食べられます). Group 3: 来ます → こられます, します → できます."
+   }
+  },
+  {
+   "id": "src-2-4",
+   "lesson": 2,
+   "p": "を → が",
+   "m": "The object particle を usually changes to が in a potential sentence.",
+   "form": "N を V → N が V (potential)",
+   "note": "The thing you are able to do is marked with が. Other particles such as へ and に stay the same.",
+   "ex": [
+    [
+     "わたしは英語を話します。→ わたしは英語が話せます。",
+     "I speak English. → I can speak English."
+    ],
+    [
+     "一人でくうこうへ行けますか。",
+     "Can you go to the airport alone?"
+    ],
+    [
+     "明日6時に起きられますか。",
+     "Can you wake up at six tomorrow morning?"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 02.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "The object particle を usually changes to が in a potential sentence.",
+    "o": [
+     "N を V → N が V (potential)",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "The thing you are able to do is marked with が. Other particles such as へ and に stay the same."
+   }
+  },
+  {
+   "id": "src-2-5",
+   "lesson": 2,
+   "p": "見えます / 聞こえます",
+   "m": "Something can be seen or heard (naturally comes into sight or hearing).",
+   "form": "N が 見えます ／ N が 聞こえます",
+   "note": "見えます (can be seen) and 聞こえます (can be heard) are used for things that come into view or earshot. 見られます / 聞けます mean you are able to watch / listen.",
+   "ex": [
+    [
+     "明日からその映画が見られます。",
+     "You can watch the movie starting tomorrow."
+    ],
+    [
+     "この町からふじ山が見えます。",
+     "Mt. Fuji can be seen from this town."
+    ],
+    [
+     "オーディオガイドで説明が聞けます。",
+     "You can listen to the explanation using this audio guide."
+    ],
+    [
+     "あの部屋からふしぎな音が聞こえます。",
+     "A strange sound can be heard from that room."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 02.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Something can be seen or heard (naturally comes into sight or hearing).",
+    "o": [
+     "N が 見えます ／ N が 聞こえます",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "見えます (can be seen) and 聞こえます (can be heard) are used for things that come into view or earshot. 見られます / 聞けます mean you are able to watch / listen."
+   }
+  },
+  {
+   "id": "src-2-6",
+   "lesson": 2,
+   "p": "では・には・へは・からは・までは",
+   "m": "は is added after another particle to highlight or emphasize a noun as a topic.",
+   "form": "N + particle + は",
+   "note": "Place は after particles like で, に, へ, から, まで to put the focus on that place or point.",
+   "ex": [
+    [
+     "へやにはテレビがあります。",
+     "In the room, there is a TV."
+    ],
+    [
+     "店ではさけが買えます。",
+     "At the store, you can buy Japanese wine."
+    ],
+    [
+     "このビルからは花火が見えます。",
+     "From this building, fireworks can be seen."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 02.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "は is added after another particle to highlight or emphasize a noun as a topic.",
+    "o": [
+     "N + particle + は",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Place は after particles like で, に, へ, から, まで to put the focus on that place or point."
+   }
+  },
+  {
+   "id": "src-2-7",
+   "lesson": 2,
+   "p": "も",
+   "m": "Also / too.",
+   "form": "N も ～。",
+   "note": "も replaces は, が or を to say that the same thing applies to another noun. It can also follow other particles (リビングルームにも).",
+   "ex": [
+    [
+     "サラダを食べました。ケーキも食べました。",
+     "I ate salad. I also ate a cake."
+    ],
+    [
+     "しみずさんは英語が話せます。中国語も話せます。",
+     "Mr. Shimizu can speak English. He can also speak Chinese."
+    ],
+    [
+     "へやにはテレビがあります。リビングルームにもテレビがあります。",
+     "In the room, there is a TV. Also in the living room, there is a TV."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 02.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Also / too.",
+    "o": [
+     "N も ～。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "も replaces は, が or を to say that the same thing applies to another noun. It can also follow other particles (リビングルームにも)."
+   }
+  },
+  {
+   "id": "src-2-8",
+   "lesson": 2,
+   "p": "しか～ません",
+   "m": "Only / just / nothing but ...",
+   "form": "N しか + negative verb",
+   "note": "しか is always followed by a negative: there is nothing but N. だけ + positive gives a similar meaning of \"only\".",
+   "ex": [
+    [
+     "コピーは一つしかありません。",
+     "I have nothing but just one copy."
+    ],
+    [
+     "コピーは一つだけあります。",
+     "I only have one copy."
+    ],
+    [
+     "かのじょしか買ってあげない。",
+     "I won't buy it for anyone but (only) her."
+    ],
+    [
+     "かのじょだけに買ってあげる。",
+     "I'll buy it only for her."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 02.pptx",
+   "slide": 8,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Only / just / nothing but ...",
+    "o": [
+     "N しか + negative verb",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "しか is always followed by a negative: there is nothing but N. だけ + positive gives a similar meaning of \"only\"."
+   }
+  },
+  {
+   "id": "src-3-3",
+   "lesson": 3,
+   "p": "～ながら",
+   "m": "Doing Verb 1 while doing Verb 2.",
+   "form": "Verb 1 ます-stem ながら Verb 2",
+   "note": "Drop ます from Verb 1 and add ながら. The main action is the verb at the end of the sentence.",
+   "ex": [
+    [
+     "わらいながらおもしろいばんぐみを見ました。",
+     "I was laughing while watching a funny show."
+    ],
+    [
+     "アルバイトをやりながら大学で勉強します。",
+     "I'm working part time and studying in university."
+    ],
+    [
+     "本を書きながら英語を教えました。",
+     "I was writing a book while I was teaching English."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 03.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Doing Verb 1 while doing Verb 2.",
+    "o": [
+     "Verb 1 ます-stem ながら Verb 2",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Drop ます from Verb 1 and add ながら. The main action is the verb at the end of the sentence."
+   }
+  },
+  {
+   "id": "src-3-4",
+   "lesson": 3,
+   "p": "～ています / ～ていました",
+   "m": "An action done habitually, repeated over time.",
+   "form": "Verb ています ／ Verb ていました",
+   "note": "Use the て-form + います for a habit in the present, and ていました for a habit in the past.",
+   "ex": [
+    [
+     "毎朝、ごはんを食べる前にジョギングをしています。",
+     "I jog every morning before breakfast."
+    ],
+    [
+     "土日はせんたくしています。",
+     "I do the laundry on Saturdays and Sundays."
+    ],
+    [
+     "毎晩ビールを飲んでいました。",
+     "I drank beer every night."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 03.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "An action done habitually, repeated over time.",
+    "o": [
+     "Verb ています ／ Verb ていました",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the て-form + います for a habit in the present, and ていました for a habit in the past."
+   }
+  },
+  {
+   "id": "src-3-5",
+   "lesson": 3,
+   "p": "～し、～し",
+   "m": "Describing something using more than one adjective, or stating more than one reason.",
+   "form": "Plain form し、～。",
+   "note": "Join verbs or adjectives in plain form with し to list several facts or reasons, one on top of another.",
+   "ex": [
+    [
+     "姉のアパートは新しいし、にわもあります。",
+     "My sister's apartment is new and it also has a garden."
+    ],
+    [
+     "好きな人はやさしいし、きれいだし、人気があります。",
+     "My crush is kind, beautiful and popular."
+    ],
+    [
+     "かのじょは英語が話せるし、ねっしんだし、けいけんもあります。",
+     "She can speak English, is earnest and also has experience."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 03.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Describing something using more than one adjective, or stating more than one reason.",
+    "o": [
+     "Plain form し、～。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Join verbs or adjectives in plain form with し to list several facts or reasons, one on top of another."
+   }
+  },
+  {
+   "id": "src-3-6",
+   "lesson": 3,
+   "p": "～し + も",
+   "m": "Refusing politely by giving reasons; also implies more than one reason (among other things).",
+   "form": "Plain form し、Plain form し。",
+   "note": "The particle も can be used with し to hint that there are other reasons as well.",
+   "ex": [
+    [
+     "ごめん、母をてつだうし、レポートをやらなければならない。",
+     "Would you like to have coffee later? / Sorry, I have to help my mother and I have to do my report."
+    ],
+    [
+     "駅からも近いし、このマンションを買います。",
+     "It's also near the station. I'll buy this condominium."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 03.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Refusing politely by giving reasons; also implies more than one reason (among other things).",
+    "o": [
+     "Plain form し、Plain form し。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "The particle も can be used with し to hint that there are other reasons as well."
+   }
+  },
+  {
+   "id": "src-3-7",
+   "lesson": 3,
+   "p": "それに",
+   "m": "Besides, moreover (adding one more point).",
+   "form": "～し、～し、それに ～。",
+   "note": "それに adds a further reason or point on top of the ones already given.",
+   "ex": [
+    [
+     "ジムがあるし、安いし、それに駅からも近いです。",
+     "Why did you choose that condominium? / It has a gym, it's cheap, and besides, it's close to the station."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 03.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Besides, moreover (adding one more point).",
+    "o": [
+     "～し、～し、それに ～。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "それに adds a further reason or point on top of the ones already given."
+   }
+  },
+  {
+   "id": "src-3-8",
+   "lesson": 3,
+   "p": "それで",
+   "m": "Then / so / and that's why...",
+   "form": "～し、～し。それで ～。",
+   "note": "それで begins a new sentence that states the result of the reasons given before.",
+   "ex": [
+    [
+     "かのじょは英語が話せるし、ねっしんだし、けいけんもあります。それで社長はガルシアさんをえらびました。",
+     "She can speak English, is earnest and has experience. That's why the company president chose Ms. Garcia."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 03.pptx",
+   "slide": 8,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Then / so / and that's why...",
+    "o": [
+     "～し、～し。それで ～。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "それで begins a new sentence that states the result of the reasons given before."
+   }
+  },
+  {
+   "id": "src-3-9",
+   "lesson": 3,
+   "p": "へ ・ に",
+   "m": "Both へ and に can mark the place you are going to.",
+   "form": "Place へ...(direction) ・ Place に...(destination)",
+   "note": "With verbs of movement (go, come, go home, go on a business trip), the destination can be marked with へ or に.",
+   "ex": [
+    [
+     "よくこのきっさてんに来るんですか。",
+     "Do you often come to this coffee shop?"
+    ],
+    [
+     "へ・に行きます ／ へ・に帰ります",
+     "go / go home"
+    ],
+    [
+     "へ・に来ます ／ へ・にしゅっちょうします",
+     "come / go on a business trip"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 03.pptx",
+   "slide": 9,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Both へ and に can mark the place you are going to.",
+    "o": [
+     "Place へ...(direction) ・ Place に...(destination)",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "With verbs of movement (go, come, go home, go on a business trip), the destination can be marked with へ or に."
+   }
+  },
+  {
+   "id": "src-4-3",
+   "lesson": 4,
+   "p": "～ています (state)",
+   "m": "Describes the current state of something (a state that results from a change).",
+   "form": "N が・は Verb て-form います",
+   "note": "Use the て-form + います with が or は to describe how something is right now. Verbs like 開く, われる, こわれる and やぶれる are used this way.",
+   "ex": [
+    [
+     "ドアが開いています。",
+     "The door is open."
+    ],
+    [
+     "まどがわれています。",
+     "The window is broken."
+    ],
+    [
+     "このじどうはんばいきはこわれています。",
+     "This vending machine is broken."
+    ],
+    [
+     "あのふくろはやぶれています。",
+     "That bag is torn."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 04.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Describes the current state of something (a state that results from a change).",
+    "o": [
+     "N が・は Verb て-form います",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the て-form + います with が or は to describe how something is right now. Verbs like 開く, われる, こわれる and やぶれる are used this way."
+   }
+  },
+  {
+   "id": "src-4-4",
+   "lesson": 4,
+   "p": "～てしまいました / ～てしまいます",
+   "m": "Emphasizes the completion of an action (finished it completely).",
+   "form": "Verb て-form しまいました ／ しまいます",
+   "note": "Use the て-form + しまいました for something already finished, and しまいます for something you will finish by a certain time.",
+   "ex": [
+    [
+     "いのうえさんがくれたケーキは全部食べてしまいました。",
+     "I ate all the cake that Mr. Inoue gave me."
+    ],
+    [
+     "しゅくだいはもうやってしまいましたか。",
+     "Have you done your homework already?"
+    ],
+    [
+     "帰る時間までにレポートを書いてしまいます。",
+     "I will finish writing the report by the time I leave."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 04.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Emphasizes the completion of an action (finished it completely).",
+    "o": [
+     "Verb て-form しまいました ／ しまいます",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the て-form + しまいました for something already finished, and しまいます for something you will finish by a certain time."
+   }
+  },
+  {
+   "id": "src-4-5",
+   "lesson": 4,
+   "p": "～てしまいました",
+   "m": "Expresses embarrassment or regret about something that happened.",
+   "form": "Verb て-form しまいました。",
+   "note": "The same form is used when something happened by mistake or against your wishes, such as losing or forgetting something.",
+   "ex": [
+    [
+     "きっぷをなくしてしまいましたが。どうしたらいいですか。",
+     "I lost my train ticket. What should I do?"
+    ],
+    [
+     "まちがえてしまいました。もういっかいやります。",
+     "I made a mistake. I'll do it one more time."
+    ],
+    [
+     "人が多かったです。それでスピーチをわすれてしまいました。",
+     "There were so many people. That's why I forgot my speech."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 04.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Expresses embarrassment or regret about something that happened.",
+    "o": [
+     "Verb て-form しまいました。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "The same form is used when something happened by mistake or against your wishes, such as losing or forgetting something."
+   }
+  },
+  {
+   "id": "src-4-6",
+   "lesson": 4,
+   "p": "どこかで / どこかに",
+   "m": "Somewhere.",
+   "form": "どこかで ～ ／ どこかに ～",
+   "note": "Add か to どこ to say \"somewhere\". Keep the particle (で or に) that the verb needs after it.",
+   "ex": [
+    [
+     "何か言いたいことがあります。どこかで話せますか。",
+     "There's something I want to tell you, can we talk somewhere?"
+    ],
+    [
+     "母はそうじしたとき、いいおさらがどこかにかたづけました。",
+     "When my mother was cleaning, the nice plates were put away somewhere."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 04.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Somewhere.",
+    "o": [
+     "どこかで ～ ／ どこかに ～",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Add か to どこ to say \"somewhere\". Keep the particle (で or に) that the verb needs after it."
+   }
+  },
+  {
+   "id": "src-4-7",
+   "lesson": 4,
+   "p": "ありました",
+   "m": "Found it! (something you were looking for turned up).",
+   "form": "N が ありました。",
+   "note": "Use ありました when you find something you were looking for.",
+   "ex": [
+    [
+     "きっぷがありました。おとしましたよ。",
+     "I found the ticket. I had dropped it!"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 04.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Found it! (something you were looking for turned up).",
+    "o": [
+     "N が ありました。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use ありました when you find something you were looking for."
+   }
+  },
+  {
+   "id": "src-5-3",
+   "lesson": 5,
+   "p": "～てあります",
+   "m": "Something has been done intentionally (and remains that way).",
+   "form": "N2 は N1 に V て-form あります。",
+   "note": "Use the て-form + あります to describe the result of something someone did on purpose. The thing done is the topic (は).",
+   "ex": [
+    [
+     "にんぎょうはたなにかざってあります。",
+     "The doll has been displayed on the shelf."
+    ],
+    [
+     "ごみばこはすみにおいてあります。",
+     "The trash bin has been put in the corner."
+    ],
+    [
+     "ホッチキスはひきだしにしまってあります。",
+     "The stapler has been put away in the drawer."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 05.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Something has been done intentionally (and remains that way).",
+    "o": [
+     "N2 は N1 に V て-form あります。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the て-form + あります to describe the result of something someone did on purpose. The thing done is the topic (は)."
+   }
+  },
+  {
+   "id": "src-5-4",
+   "lesson": 5,
+   "p": "もう～てあります",
+   "m": "Something has been done on purpose in preparation for something else.",
+   "form": "もう V て-form あります。",
+   "note": "Add もう (already) to say that the preparation has been done already.",
+   "ex": [
+    [
+     "プレゼントはもう買ってあります。",
+     "I have already bought the gifts."
+    ],
+    [
+     "パーティーの時間はもうしらせてありますか。",
+     "Have they already announced the time of the party?"
+    ],
+    [
+     "ホテルはもうよやくしてあります。",
+     "I have already reserved a hotel."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 05.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Something has been done on purpose in preparation for something else.",
+    "o": [
+     "もう V て-form あります。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Add もう (already) to say that the preparation has been done already."
+   }
+  },
+  {
+   "id": "src-5-5",
+   "lesson": 5,
+   "p": "閉めてあります vs 閉まっています",
+   "m": "てあります: someone closed it on purpose. ています: the state of being closed.",
+   "form": "V て-form あります ／ V て-form います",
+   "note": "てあります is used with a transitive verb (someone did it on purpose). ています is used with an intransitive verb to describe the state.",
+   "ex": [
+    [
+     "まどが閉めてあります。",
+     "The window has been closed."
+    ],
+    [
+     "まどが閉まっています。",
+     "The window is closed."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 05.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "てあります: someone closed it on purpose. ています: the state of being closed.",
+    "o": [
+     "V て-form あります ／ V て-form います",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "てあります is used with a transitive verb (someone did it on purpose). ています is used with an intransitive verb to describe the state."
+   }
+  },
+  {
+   "id": "src-5-6",
+   "lesson": 5,
+   "p": "～ておきます",
+   "m": "Completion of a necessary action by a given time, or in readiness for the next time.",
+   "form": "V て-form おきます。",
+   "note": "Use the て-form + おきます to do something beforehand. It can also mean to keep the current state as it is.",
+   "ex": [
+    [
+     "お父さん来る前に部屋をそうじしておいてください。",
+     "Clean the room before father comes."
+    ],
+    [
+     "じゅぎょうの前に、よしゅうしておきます。",
+     "I will prepare the lesson before the class."
+    ],
+    [
+     "食事が終わったら、おさらはそこにおいてください。",
+     "When you've finished the meal, please leave the plates there."
+    ],
+    [
+     "おさらはそこにおいときます。",
+     "I will leave the plates there."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 05.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Completion of a necessary action by a given time, or in readiness for the next time.",
+    "o": [
+     "V て-form おきます。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the て-form + おきます to do something beforehand. It can also mean to keep the current state as it is."
+   }
+  },
+  {
+   "id": "src-5-7",
+   "lesson": 5,
+   "p": "まだ + verb",
+   "m": "Still ~",
+   "form": "まだ Verb (affirmative)",
+   "note": "Use まだ with an affirmative verb to say that something is still going on.",
+   "ex": [
+    [
+     "まだゆきが降っています。",
+     "It's still snowing."
+    ],
+    [
+     "どうぐをまだ使っていますから、そのままにしておいてください。",
+     "I'm still using the tool so please leave them as is there."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 05.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Still ~",
+    "o": [
+     "まだ Verb (affirmative)",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use まだ with an affirmative verb to say that something is still going on."
+   }
+  },
+  {
+   "id": "src-5-8",
+   "lesson": 5,
+   "p": "それは～",
+   "m": "That (the thing you mentioned).",
+   "form": "それは ～",
+   "note": "Use それは to respond to what the other person just said, for example agreeing or politely declining.",
+   "ex": [
+    [
+     "ブロードウェイでミュージカルを見たいです。→ それはいいですね。",
+     "I want to see a musical on Broadway. / That sounds nice."
+    ],
+    [
+     "お金を貸してもらえますか。→ それはちょっと。。",
+     "Can you lend me money? / That will be a bit (difficult)."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 05.pptx",
+   "slide": 8,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "That (the thing you mentioned).",
+    "o": [
+     "それは ～",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use それは to respond to what the other person just said, for example agreeing or politely declining."
+   }
+  },
+  {
+   "id": "src-6-3",
+   "lesson": 6,
+   "p": "～よう (volitional)",
+   "m": "Plain style of ～ましょう (let's ~) and ～ましょうか (shall I ~?).",
+   "form": "Verb ます-form → よう／おう  ・  ～ましょうか → ようか",
+   "note": "Group 1: change the last sound to the お-row + う (買います → 買おう). Group 2: drop ます and add よう (見ます → 見よう). Group 3: 来ます → こよう, します → しよう.",
+   "ex": [
+    [
+     "つかれたから、ちょっときゅうけいしよう。",
+     "I'm tired so let's take a short break."
+    ],
+    [
+     "よく見えないから、前の方にすわろう。",
+     "We can't see it very well so let's sit towards the front."
+    ],
+    [
+     "これ好き？買おうか。",
+     "Do you like this? Shall I buy it?"
+    ],
+    [
+     "重いですよ。てつだおうか。",
+     "It's heavy. Shall I help you?"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 06.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Plain style of ～ましょう (let's ~) and ～ましょうか (shall I ~?).",
+    "o": [
+     "Verb ます-form → よう／おう  ・  ～ましょうか → ようか",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Group 1: change the last sound to the お-row + う (買います → 買おう). Group 2: drop ます and add よう (見ます → 見よう). Group 3: 来ます → こよう, します → しよう."
+   }
+  },
+  {
+   "id": "src-6-4",
+   "lesson": 6,
+   "p": "～と思っています / ～と思います",
+   "m": "I am thinking of doing Verb.",
+   "form": "Verb (volitional form) と思っています。",
+   "note": "Put the volitional form before と思っています to say what you are thinking of doing. 思います is also used.",
+   "ex": [
+    [
+     "こどもは大学をそつぎょうしてから、主人と旅行へ行こうと思っています。",
+     "After my child graduates from university, I have been thinking of going on a trip with my husband."
+    ],
+    [
+     "家で食べようと思います。",
+     "I think I will eat at home."
+    ],
+    [
+     "お兄さんは英語のしけんをうけようと思っています。",
+     "My brother is thinking of taking the English exam."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 06.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "I am thinking of doing Verb.",
+    "o": [
+     "Verb (volitional form) と思っています。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Put the volitional form before と思っています to say what you are thinking of doing. 思います is also used."
+   }
+  },
+  {
+   "id": "src-6-5",
+   "lesson": 6,
+   "p": "～つもりです",
+   "m": "I intend / decide to ~ (expresses strong intention of doing something).",
+   "form": "Verb (dictionary form / ない form) つもりです。",
+   "note": "Use the dictionary form for \"intend to\" and the ない form for \"intend not to\". Use it for strong intentions or big decisions, not daily activities, and not when talking to a superior or boss.",
+   "ex": [
+    [
+     "6月までにレッスン50まで終わるつもりです。",
+     "I'm determined to finish until lesson 50 by the end of June."
+    ],
+    [
+     "来年かのじょと結婚するつもりです。",
+     "I intend to marry her next year."
+    ],
+    [
+     "夏休みをとらないつもりです。",
+     "I will not take the summer vacation."
+    ],
+    [
+     "自分の国に帰るつもりはありません。",
+     "I don't have any intention to return back home to my country."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 06.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "I intend / decide to ~ (expresses strong intention of doing something).",
+    "o": [
+     "Verb (dictionary form / ない form) つもりです。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the dictionary form for \"intend to\" and the ない form for \"intend not to\". Use it for strong intentions or big decisions, not daily activities, and not when talking to a superior or boss."
+   }
+  },
+  {
+   "id": "src-6-6",
+   "lesson": 6,
+   "p": "～よていです",
+   "m": "Expresses a schedule or plan.",
+   "form": "Verb (dictionary form) よていです ／ Noun のよていです",
+   "note": "Use the dictionary form or a noun + の before よていです to say what is scheduled or planned.",
+   "ex": [
+    [
+     "かいぎは1時に始まるよていです。",
+     "The meeting is scheduled to start at 1 o'clock."
+    ],
+    [
+     "けっこんしきにおきゃくさんは50人ぐらい来るよていです。",
+     "About 50 guests are planned to come to the wedding."
+    ],
+    [
+     "旅行は3週間のよていです。",
+     "The trip is scheduled to be for 3 weeks."
+    ],
+    [
+     "しゅっちょうはセブのよていです。",
+     "The business trip is scheduled to be in Cebu."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 06.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Expresses a schedule or plan.",
+    "o": [
+     "Verb (dictionary form) よていです ／ Noun のよていです",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the dictionary form or a noun + の before よていです to say what is scheduled or planned."
+   }
+  },
+  {
+   "id": "src-6-7",
+   "lesson": 6,
+   "p": "まだ～ていません",
+   "m": "The action has not taken place yet.",
+   "form": "まだ Verb て-form いません。",
+   "note": "Use まだ with the negative ていません to say you have not done something yet. (まだ + affirmative means \"still\".)",
+   "ex": [
+    [
+     "この本はもう読みましたか。→ いいえ、まだ読んでいません。",
+     "Have you already read this book? / Nope, I haven't read it yet."
+    ],
+    [
+     "まだ食べていないから、いっしょに食べない？",
+     "I haven't eaten yet, won't you eat with me?"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 06.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "The action has not taken place yet.",
+    "o": [
+     "まだ Verb て-form いません。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use まだ with the negative ていません to say you have not done something yet. (まだ + affirmative means \"still\".)"
+   }
+  },
+  {
+   "id": "src-6-8",
+   "lesson": 6,
+   "p": "それ・その～",
+   "m": "This / that (thing mentioned).",
+   "form": "これ・この～ ／ それ・その～",
+   "note": "それ and その refer back to the thing that was just mentioned in the previous sentence.",
+   "ex": [
+    [
+     "東京にないものが一つだけある。それはうつくしいしぜんだ。",
+     "There's one thing that's missing in Tokyo. And that is beautiful greenery."
+    ],
+    [
+     "いい仕事を見つけました。この仕事はきゅうりょうが高いです。",
+     "I found a good job. This job pays well. (high salary)"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 06.pptx",
+   "slide": 8,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "This / that (thing mentioned).",
+    "o": [
+     "これ・この～ ／ それ・その～",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "それ and その refer back to the thing that was just mentioned in the previous sentence."
+   }
+  },
+  {
+   "id": "src-7-3",
+   "lesson": 7,
+   "p": "～たほうがいいです",
+   "m": "It's better to ~ / you should ~ (た-form); better not ~ / you should not ~ (ない-form).",
+   "form": "V た-form ほうがいいです ／ V ない-form ほうがいいです",
+   "note": "Use the た-form of the verb before ほうがいいです to make a suggestion or give advice. Use the ない-form to say \"you had better not\".",
+   "ex": [
+    [
+     "体にわるいですから、たばこをやめたほうがいいです。",
+     "It's bad for the body, so you better quit smoking."
+    ],
+    [
+     "夏休みにはホテルがこみますので、早くよやくしたほうがいいです。",
+     "Hotels get crowded in summer so you should make a reservation early."
+    ],
+    [
+     "昨日からねつがつづいていますか。病院へ行ったほうがいいです。",
+     "Do you have a fever since yesterday? You better go to the hospital."
+    ],
+    [
+     "ちょうしがわるいですか。むりをしないほうがいいです。",
+     "Are you feeling bad? You better not work too much."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 07.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "It's better to ~ / you should ~ (た-form); better not ~ / you should not ~ (ない-form).",
+    "o": [
+     "V た-form ほうがいいです ／ V ない-form ほうがいいです",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the た-form of the verb before ほうがいいです to make a suggestion or give advice. Use the ない-form to say \"you had better not\"."
+   }
+  },
+  {
+   "id": "src-7-4",
+   "lesson": 7,
+   "p": "～たらいいですか",
+   "m": "What / When / Where / Which / How / Who should I ...? / It would be a good idea to ~.",
+   "form": "V た-formら いいですか ／ V た-formら いいです",
+   "note": "Use a question word with Vたらいいですか to ask for advice. Vたらいいです (or たらいいと思います) is a softer way to say \"it's a good idea to ~\".",
+   "ex": [
+    [
+     "おなかがすいた。どこで食べたらいいですか。",
+     "I'm hungry, where should I eat?"
+    ],
+    [
+     "おみやげを買いたいんですが、何を買ったらいいですか。",
+     "I want to buy Japanese souvenirs, what should I buy?"
+    ],
+    [
+     "パスポートをなくなりましたが、どうしたらいいですか。",
+     "I lost my passport, what should I do?"
+    ],
+    [
+     "運動したらいいです。／運動したらいいと思います。",
+     "(I think) It's a good idea if you do some exercise."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 07.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "What / When / Where / Which / How / Who should I ...? / It would be a good idea to ~.",
+    "o": [
+     "V た-formら いいですか ／ V た-formら いいです",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use a question word with Vたらいいですか to ask for advice. Vたらいいです (or たらいいと思います) is a softer way to say \"it's a good idea to ~\"."
+   }
+  },
+  {
+   "id": "src-7-5",
+   "lesson": 7,
+   "p": "～でしょう / ～でしょうか",
+   "m": "~ is probably... / Do you think ~?  (でしょうか)",
+   "form": "V / i-adj / na-adj / N plain form でしょう",
+   "note": "Use the plain form + でしょう to say that something will probably happen. With でしょうか it asks \"do you think ~?\" or wonders about something.",
+   "ex": [
+    [
+     "夕方には雨がやむでしょう。",
+     "The rain will probably stop in the evening."
+    ],
+    [
+     "午後はかいぎですから、部長はいそがしいでしょう。",
+     "There's a meeting in the afternoon. The department head will probably be busy."
+    ],
+    [
+     "二週間の旅行には五万円で十分でしょう。",
+     "50,000 yen will probably be enough for a 2-week trip."
+    ],
+    [
+     "電車に間にあうでしょうか。",
+     "Do you think we will be in time for the train?"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 07.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "~ is probably... / Do you think ~?  (でしょうか)",
+    "o": [
+     "V / i-adj / na-adj / N plain form でしょう",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the plain form + でしょう to say that something will probably happen. With でしょうか it asks \"do you think ~?\" or wonders about something."
+   }
+  },
+  {
+   "id": "src-7-6",
+   "lesson": 7,
+   "p": "～かもしれません",
+   "m": "~ might...",
+   "form": "V / i-adj / na-adj / N plain form かもしれません",
+   "note": "Use the plain form + かもしれません to express that something is possible. The final plain form is かもしれない.",
+   "ex": [
+    [
+     "ちょっとそうじします。おきゃくさんが来るかもしれません。",
+     "I'll clean up a bit, a guest might come today."
+    ],
+    [
+     "コートを持って行きます。夕方にはさむいかもしれません。",
+     "I'll bring my coat. It might be cold in the evening."
+    ],
+    [
+     "電車で行きます。ちゅうしゃじょうがないかもしれません。",
+     "I'll go by train, because there might be no parking space."
+    ],
+    [
+     "おとおさんはすごいきびしいから、だめかもしれない。",
+     "My father is really strict, so it's probably a 'no'."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 07.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "~ might...",
+    "o": [
+     "V / i-adj / na-adj / N plain form かもしれません",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the plain form + かもしれません to express that something is possible. The final plain form is かもしれない."
+   }
+  },
+  {
+   "id": "src-7-7",
+   "lesson": 7,
+   "p": "きっと・たぶん・もしかしたら",
+   "m": "きっと: surely. たぶん: maybe. もしかしたら: possibly.",
+   "form": "きっと・たぶん・もしかしたら ～",
+   "note": "きっと: quite certain (like でしょう). たぶん: less certain, often with と思います. もしかしたら: often with かもしれません, less possible.",
+   "ex": [
+    [
+     "セレナさんはあんなに練習しているからきっとしあいでかつでしょう。",
+     "Serena is practicing that much, surely she will win the game."
+    ],
+    [
+     "たぶん来るでしょう。",
+     "Maybe, he'll probably come."
+    ],
+    [
+     "たぶん来ると思います。",
+     "Maybe, I think he'll come."
+    ],
+    [
+     "ごめん、レポートをやらないといけない。もしかしたらパーティに行けないかもしれません。",
+     "Sorry, I need to do my report. I might not be able to go to the party."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 07.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "きっと: surely. たぶん: maybe. もしかしたら: possibly.",
+    "o": [
+     "きっと・たぶん・もしかしたら ～",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "きっと: quite certain (like でしょう). たぶん: less certain, often with と思います. もしかしたら: often with かもしれません, less possible."
+   }
+  },
+  {
+   "id": "src-7-8",
+   "lesson": 7,
+   "p": "何か・だれか・どこか・いつか",
+   "m": "Something, someone, somewhere, someday, etc.",
+   "form": "何か・だれか・どこか・いつか + Noun",
+   "note": "Add か to a question word to make it indefinite. It can be followed by a noun or a verb phrase.",
+   "ex": [
+    [
+     "何かしんぱいなことがあるんですか。",
+     "Is something bothering you?"
+    ],
+    [
+     "だれかしらない人にチョコレートをもらいました。",
+     "I got chocolates from someone I don't know."
+    ],
+    [
+     "どこかいいレストランありますか。",
+     "Is there a good restaurant somewhere?"
+    ],
+    [
+     "いつか東京にいるとき会いましょう。",
+     "Let's meet when you're in Tokyo someday."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 07.pptx",
+   "slide": 8,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Something, someone, somewhere, someday, etc.",
+    "o": [
+     "何か・だれか・どこか・いつか + Noun",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Add か to a question word to make it indefinite. It can be followed by a noun or a verb phrase."
+   }
+  },
+  {
+   "id": "src-7-9",
+   "lesson": 7,
+   "p": "Quantifier で",
+   "m": "Indicates the limit of a price, time, quantity, etc. (with this amount, is it enough?)",
+   "form": "Quantity / price / time で ～",
+   "note": "Put で after an amount of money, time or quantity to show the limit that something is done within.",
+   "ex": [
+    [
+     "十万円でゲーミングパソコンが買えますか。",
+     "Can I buy a gaming computer for 100,000 yen?"
+    ],
+    [
+     "一時間で車をなおせますか。",
+     "Can you fix the car in one hour?"
+    ],
+    [
+     "100枚のコピーで足りますか。",
+     "Is 100 copies enough?"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 07.pptx",
+   "slide": 9,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Indicates the limit of a price, time, quantity, etc. (with this amount, is it enough?)",
+    "o": [
+     "Quantity / price / time で ～",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Put で after an amount of money, time or quantity to show the limit that something is done within."
+   }
+  },
+  {
+   "id": "src-8-3",
+   "lesson": 8,
+   "p": "Imperative form",
+   "m": "A strong command: Do ~! (used among close people or in emergencies)",
+   "form": "V ます-stem → え-row sound / ろ",
+   "note": "Group 1: change the final い-row sound to the え-row (書きます → 書け). Group 2: drop ます and add ろ (見ます → 見ろ). Group 3: 来ます → こい, します → しろ. Used by a senior to a younger person, a father to a child, in emergencies, and on traffic signs.",
+   "ex": [
+    [
+     "早く寝ろ。",
+     "Go to bed early."
+    ],
+    [
+     "こうつうきそくを守れ。",
+     "Follow the traffic rules."
+    ],
+    [
+     "にげろ！",
+     "Run away!"
+    ],
+    [
+     "止まれ。",
+     "Traffic sign: Stop."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 08.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "A strong command: Do ~! (used among close people or in emergencies)",
+    "o": [
+     "V ます-stem → え-row sound / ろ",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Group 1: change the final い-row sound to the え-row (書きます → 書け). Group 2: drop ます and add ろ (見ます → 見ろ). Group 3: 来ます → こい, します → しろ. Used by a senior to a younger person, a father to a child, in emergencies, and on traffic signs."
+   }
+  },
+  {
+   "id": "src-8-4",
+   "lesson": 8,
+   "p": "Prohibitive form",
+   "m": "Don't do ~! (a strong prohibition)",
+   "form": "V dictionary form + な",
+   "note": "Add な to the dictionary form of the verb. For group 3: くる → くるな, する → するな. Adding よ softens the tone between male friends.",
+   "ex": [
+    [
+     "酒を飲むな。",
+     "Don't drink alcohol."
+    ],
+    [
+     "うるさい！さわぐな。",
+     "So noisy! Stop making noise."
+    ],
+    [
+     "ここでだめだよ。たばこをすうな。",
+     "It's not allowed here. Don't smoke a cigarette."
+    ],
+    [
+     "あぶないよ。はしるな。",
+     "It's dangerous. Don't run."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 08.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Don't do ~! (a strong prohibition)",
+    "o": [
+     "V dictionary form + な",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Add な to the dictionary form of the verb. For group 3: くる → くるな, する → するな. Adding よ softens the tone between male friends."
+   }
+  },
+  {
+   "id": "src-8-5",
+   "lesson": 8,
+   "p": "～なさい",
+   "m": "A gentler form of the imperative: Do ~.",
+   "form": "V ます-stem + なさい",
+   "note": "Take the ます-stem of the verb and add なさい. It is softer than the imperative form.",
+   "ex": [
+    [
+     "ぜんぶ食べなさい。",
+     "Finish your food. (Eat all your food.)"
+    ],
+    [
+     "寝なさい。",
+     "Go to sleep."
+    ],
+    [
+     "しゅくだいを出しなさい。",
+     "Submit your homework."
+    ],
+    [
+     "すわりなさい。",
+     "Sit down."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 08.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "A gentler form of the imperative: Do ~.",
+    "o": [
+     "V ます-stem + なさい",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Take the ます-stem of the verb and add なさい. It is softer than the imperative form."
+   }
+  },
+  {
+   "id": "src-8-6",
+   "lesson": 8,
+   "p": "～と読みます / ～と書いてあります",
+   "m": "A is read as B. / It says (is written) B.",
+   "form": "～と読みます。 / ～と書いてあります。",
+   "note": "Quote how something is read or what is written on it, followed by と読みます or と書いてあります.",
+   "ex": [
+    [
+     "あのかんじは何と読みますか。",
+     "How do you read that kanji?"
+    ],
+    [
+     "「ひじょうぐち」と読みます。",
+     "It's read as \"hijouguchi\"."
+    ],
+    [
+     "あそこに何と書いてありますか。",
+     "What is written over there?"
+    ],
+    [
+     "「ほんじつ きゅうぎょう」と書いてあります。",
+     "It says \"honjitsu kyuugyou\" (business closed today)."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 08.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "A is read as B. / It says (is written) B.",
+    "o": [
+     "～と読みます。 / ～と書いてあります。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Quote how something is read or what is written on it, followed by と読みます or と書いてあります."
+   }
+  },
+  {
+   "id": "src-8-7",
+   "lesson": 8,
+   "p": "～という意味です",
+   "m": "Express the meaning of something.",
+   "form": "A は B という意味です。",
+   "note": "Ask with どういう意味ですか and answer with the meaning followed by という意味です.",
+   "ex": [
+    [
+     "このかんじはどういう意味ですか。",
+     "What does this kanji mean?"
+    ],
+    [
+     "「営業中」は今、店が開いているという意味です。",
+     "\"eigyouchuu\" means the shop is open for business today."
+    ],
+    [
+     "「使用禁止」はどういう意味ですか。",
+     "What does \"shiyoukinshi\" mean?"
+    ],
+    [
+     "使ってはいけないという意味です。",
+     "It means \"Do not use\"."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 08.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Express the meaning of something.",
+    "o": [
+     "A は B という意味です。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Ask with どういう意味ですか and answer with the meaning followed by という意味です."
+   }
+  },
+  {
+   "id": "src-8-8",
+   "lesson": 8,
+   "p": "～と言っていました",
+   "m": "Person C said that ...",
+   "form": "\"Sentence\" / Plain form と言っていました。",
+   "note": "Quote what a third person said by putting the sentence in plain form (or inside 「」) before と言っていました.",
+   "ex": [
+    [
+     "社長は何と言っていましたか。",
+     "What did the company president say?"
+    ],
+    [
+     "「あとでかいぎがあって、せきを外します」と言っていました。",
+     "He said, \"There will be a meeting later and I'll be away from my desk.\""
+    ],
+    [
+     "先生は何と言っていましたか。",
+     "What did the doctor say?"
+    ],
+    [
+     "おじさんはもうなくなったと言っていました。",
+     "He said that uncle passed away."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 08.pptx",
+   "slide": 8,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Person C said that ...",
+    "o": [
+     "\"Sentence\" / Plain form と言っていました。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Quote what a third person said by putting the sentence in plain form (or inside 「」) before と言っていました."
+   }
+  },
+  {
+   "id": "src-8-9",
+   "lesson": 8,
+   "p": "～とつたえていただけませんか",
+   "m": "Could you please tell him/her that ~?",
+   "form": "\"S\" / Plain form とつたえていただけませんか。",
+   "note": "A polite request to convey a message to a third person. Put the message in plain form (or inside 「」) before とつたえていただけませんか.",
+   "ex": [
+    [
+     "ソフィアさんに「後で電話をください」とつたえていただけませんか。",
+     "Could you please tell Sophia to call me later."
+    ],
+    [
+     "みんなにかいぎは明日の10時だとつたえていただけませんか。",
+     "Could you please tell everyone that the meeting is tomorrow at 10AM."
+    ],
+    [
+     "ちょうしがわるいので、かちょうに今日、休むとつたえていただけませんか。",
+     "I'm not feeling well so could you please tell the section manager that I'll take the day off."
+    ],
+    [
+     "おばあちゃんにごめん、午後はいそがしいとつたえていただけませんか。",
+     "Could you please tell grandma that sorry I'm busy in the afternoon."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 08.pptx",
+   "slide": 9,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Could you please tell him/her that ~?",
+    "o": [
+     "\"S\" / Plain form とつたえていただけませんか。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "A polite request to convey a message to a third person. Put the message in plain form (or inside 「」) before とつたえていただけませんか."
+   }
+  },
+  {
+   "id": "src-9-3",
+   "lesson": 9,
+   "p": "V とおりに",
+   "m": "Do Verb 2 in the same way as Verb 1.",
+   "form": "V1 dictionary / た-form とおりに、V2",
+   "note": "Use the dictionary form or the た-form of Verb 1, then とおりに, to say that Verb 2 is done just as Verb 1 is or was done.",
+   "ex": [
+    [
+     "わたしがするとおりに、やってください。",
+     "Please do as I do."
+    ],
+    [
+     "わたしが言うとおりに、書いてください。",
+     "Please write down as I say."
+    ],
+    [
+     "母に習ったとおりに、料理を作りました。",
+     "I made the dish the way I learned it from my mother."
+    ],
+    [
+     "はいしゃに教えてもらったとおりに、はをみがいています。",
+     "I'm brushing my teeth the way the dentist taught me."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 09.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Do Verb 2 in the same way as Verb 1.",
+    "o": [
+     "V1 dictionary / た-form とおりに、V2",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the dictionary form or the た-form of Verb 1, then とおりに, to say that Verb 2 is done just as Verb 1 is or was done."
+   }
+  },
+  {
+   "id": "src-9-4",
+   "lesson": 9,
+   "p": "N のとおりに",
+   "m": "Do Verb 2 in the same way as the noun shows.",
+   "form": "N の とおりに、V2",
+   "note": "Attach のとおりに to a noun such as an arrow, a line, a drawing or an instruction manual, and do Verb 2 following it.",
+   "ex": [
+    [
+     "やじるしのとおりに、行ってください。",
+     "Please go along following the arrow."
+    ],
+    [
+     "せんのとおりに、紙を切ります。",
+     "I will cut the paper along the line."
+    ],
+    [
+     "ずのとおりに、紙をおります。",
+     "I will fold the paper according to the drawing."
+    ],
+    [
+     "説明書のとおりに、かぐをくみたてます。",
+     "I will assemble the furniture according to the instruction manual."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 09.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Do Verb 2 in the same way as the noun shows.",
+    "o": [
+     "N の とおりに、V2",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Attach のとおりに to a noun such as an arrow, a line, a drawing or an instruction manual, and do Verb 2 following it."
+   }
+  },
+  {
+   "id": "src-9-5",
+   "lesson": 9,
+   "p": "あとで",
+   "m": "After doing Verb 1 (or after a noun), do Verb 2.",
+   "form": "V1 た-form あとで、V2 / N の あとで、V2",
+   "note": "Use the た-form of Verb 1 before あとで. With a noun, add の: Nのあとで.",
+   "ex": [
+    [
+     "運動したあとで、ビールを飲みました。",
+     "After exercising, I drank beer."
+    ],
+    [
+     "新しいのを買ったあとでなくした時計が見つかりました。",
+     "After I bought the new one, I found the clock that I lost."
+    ],
+    [
+     "コンサートのあとで、食事をしましょう。",
+     "Let's have a meal after the concert."
+    ],
+    [
+     "ジョギングのあとで、シャワをあびます。",
+     "I take a shower after jogging."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 09.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "After doing Verb 1 (or after a noun), do Verb 2.",
+    "o": [
+     "V1 た-form あとで、V2 / N の あとで、V2",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the た-form of Verb 1 before あとで. With a noun, add の: Nのあとで."
+   }
+  },
+  {
+   "id": "src-9-6",
+   "lesson": 9,
+   "p": "V1て / V1ないで",
+   "m": "Do Verb 2 with or without doing Verb 1.",
+   "form": "V1 て-form て / V1 ない-form ないで V2",
+   "note": "Use the て-form of Verb 1 to say you do Verb 2 while in the state of Verb 1. Use the ない-form + で to say you do Verb 2 without doing Verb 1.",
+   "ex": [
+    [
+     "しょうゆをつけてすしを食べます。",
+     "We eat sushi with soy sauce."
+    ],
+    [
+     "いつもかさを持って出かけます。",
+     "I always go out with my umbrella."
+    ],
+    [
+     "シートベルトをしないで運転することがあぶないです。",
+     "Driving without putting on a seatbelt is dangerous."
+    ],
+    [
+     "さとうを入れないでコーヒーを飲みます。",
+     "I drink coffee without putting sugar."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 09.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Do Verb 2 with or without doing Verb 1.",
+    "o": [
+     "V1 て-form て / V1 ない-form ないで V2",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the て-form of Verb 1 to say you do Verb 2 while in the state of Verb 1. Use the ない-form + で to say you do Verb 2 without doing Verb 1."
+   }
+  },
+  {
+   "id": "src-9-7",
+   "lesson": 9,
+   "p": "V1ないで、V2",
+   "m": "Not doing Verb 1; instead, doing Verb 2.",
+   "form": "V1 ない-form ないで、V2",
+   "note": "Use ないで to say you did not do Verb 1, and instead did Verb 2.",
+   "ex": [
+    [
+     "昨夜は寝ないで、イケアの新しいかぐをくみたてました。",
+     "I didn't sleep last night; instead I assembled my new furniture from Ikea."
+    ],
+    [
+     "ケーキは買わないで、自分で作ります。",
+     "I'm not going to buy a cake; instead I'm going to make it myself."
+    ],
+    [
+     "レシートはすてないで、あつめています。",
+     "I don't throw away receipts; instead I collect them."
+    ],
+    [
+     "昨日はどこも行かないで、うちでゲームをしました。",
+     "I didn't go anywhere yesterday. I played games at home instead."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 09.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Not doing Verb 1; instead, doing Verb 2.",
+    "o": [
+     "V1 ない-form ないで、V2",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use ないで to say you did not do Verb 1, and instead did Verb 2."
+   }
+  },
+  {
+   "id": "src-10-3",
+   "lesson": 10,
+   "p": "V ば",
+   "m": "If condition A happens, B will happen.",
+   "form": "V ば-formば、Main Sentence",
+   "note": "Change the ます form to the conditional form (Group 1: い-row to え-row + ば, Group 2: drop ます and add れば, Group 3: 来れば / すれば). Then state what will happen.",
+   "ex": [
+    [
+     "秋になれば、木のはのいろがかわります。",
+     "If it becomes autumn, the colors of the leaves change."
+    ],
+    [
+     "道ができれば、むらのせいかつはもっと便利になります。",
+     "If the road is finished, the life in the village will be more convenient."
+    ],
+    [
+     "食べれば、好きになるかもしれない。",
+     "If you eat it, you might like it."
+    ],
+    [
+     "みなさんが早く来れば9時の電車に間に合うでしょう。",
+     "If everyone comes early, we'll make it on time for the 9 o'clock train."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 10.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "If condition A happens, B will happen.",
+    "o": [
+     "V ば-formば、Main Sentence",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Change the ます form to the conditional form (Group 1: い-row to え-row + ば, Group 2: drop ます and add れば, Group 3: 来れば / すれば). Then state what will happen."
+   }
+  },
+  {
+   "id": "src-10-4",
+   "lesson": 10,
+   "p": "Adj / Noun + ば・なら",
+   "m": "If condition A (adjective / noun) happens, B will happen.",
+   "form": "い-adj ～ければ / な-adj・N ～なら、Main Sentence",
+   "note": "For い-adjectives, change the final い to ければ. For な-adjectives and nouns, add なら.",
+   "ex": [
+    [
+     "こたえがただしければ、まるをつけてください。",
+     "If the answer's correct, mark it with a circle."
+    ],
+    [
+     "天気がよければ、屋上から富士山が見えます。",
+     "If the weather is good, Mount Fuji is visible from the rooftop."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 10.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "If condition A (adjective / noun) happens, B will happen.",
+    "o": [
+     "い-adj ～ければ / な-adj・N ～なら、Main Sentence",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "For い-adjectives, change the final い to ければ. For な-adjectives and nouns, add なら."
+   }
+  },
+  {
+   "id": "src-10-5",
+   "lesson": 10,
+   "p": "Negative ば form",
+   "m": "If not condition A, B will happen.",
+   "form": "V ～なければ / い-adj ～く なければ / な-adj・N ～でなければ",
+   "note": "Change the ない ending to なければ. For な-adjectives and nouns, use じゃなければ or でなければ.",
+   "ex": [
+    [
+     "きれいでなければ、もういっかいあらってね。",
+     "If it's not clean, wash it again."
+    ],
+    [
+     "むりょうでなければ、ほしくないです。",
+     "If it's not free, then I don't want it."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 10.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "If not condition A, B will happen.",
+    "o": [
+     "V ～なければ / い-adj ～く なければ / な-adj・N ～でなければ",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Change the ない ending to なければ. For な-adjectives and nouns, use じゃなければ or でなければ."
+   }
+  },
+  {
+   "id": "src-10-6",
+   "lesson": 10,
+   "p": "N なら",
+   "m": "If you are talking about N, then ...",
+   "form": "N なら、Main Sentence",
+   "note": "Use なら to pick up a topic that was just mentioned and give a suggestion or information about it.",
+   "ex": [
+    [
+     "一週間なら、パラワンかセブがいいと思います。",
+     "If it's for a week, I think Palawan or Cebu is good."
+    ],
+    [
+     "おんせんなら、白馬がいいですよ。",
+     "If it's for a hot spring, Hakuba is good."
+    ],
+    [
+     "この方法がだめならあの方法でやりましょう。",
+     "If this way doesn't work, let's do the other method."
+    ],
+    [
+     "25メートルぐらいならおよげます。",
+     "If it's just around 25 meters, I can swim it."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 10.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "If you are talking about N, then ...",
+    "o": [
+     "N なら、Main Sentence",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use なら to pick up a topic that was just mentioned and give a suggestion or information about it."
+   }
+  },
+  {
+   "id": "src-10-7",
+   "lesson": 10,
+   "p": "～ばいいですか",
+   "m": "Where / what / how should I ...?",
+   "form": "Interrogative V ば-form いいですか。",
+   "note": "Use a question word with the ば-form of the verb followed by いいですか to ask for a suggestion or direction.",
+   "ex": [
+    [
+     "おそうしきに行くんですが、何を持って行けばいいですか。",
+     "I'm going to a funeral but what should I bring?"
+    ],
+    [
+     "ともだちがけっこんするんですが、どんな物をあげればいいですか。",
+     "My friend is getting married. What kind of thing should I give as a present?"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 10.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Where / what / how should I ...?",
+    "o": [
+     "Interrogative V ば-form いいですか。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use a question word with the ば-form of the verb followed by いいですか to ask for a suggestion or direction."
+   }
+  },
+  {
+   "id": "src-10-8",
+   "lesson": 10,
+   "p": "～ば～ほど",
+   "m": "The more ..., the more ...",
+   "form": "V ば・なら (V dictionary form / い-adj / な-adj) ほど～",
+   "note": "Repeat the verb or adjective: first in the conditional form, then in the dictionary form, followed by ほど.",
+   "ex": [
+    [
+     "にんにくをたくさん入れれば入れるほどおいしいと思います。",
+     "I think the more garlic you use, the more delicious it is."
+    ],
+    [
+     "きかいはボタンが少なければ少ないほどいいです。",
+     "The less buttons in the machine, the better."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 10.pptx",
+   "slide": 8,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "The more ..., the more ...",
+    "o": [
+     "V ば・なら (V dictionary form / い-adj / な-adj) ほど～",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Repeat the verb or adjective: first in the conditional form, then in the dictionary form, followed by ほど."
+   }
+  },
+  {
+   "id": "src-11-3",
+   "lesson": 11,
+   "p": "V1ように、V2",
+   "m": "V2 is done in order to V1 (so that V1 happens).",
+   "form": "V1 dictionary form / ない-form ように、V2",
+   "note": "Put the goal (usually a potential verb or a verb that expresses a state) in the dictionary or ない-form before ように, then say what you do to reach it.",
+   "ex": [
+    [
+     "早くとどくようにそくたつで出します。",
+     "I will send it by express mail in order for it to be delivered early."
+    ],
+    [
+     "日本で働けるように日本語を勉強します。",
+     "I will learn Japanese so that I'll be able to work in Japan."
+    ],
+    [
+     "はっきり聞こえるように大きいこえで言ってください。",
+     "Please speak loudly so that you can be heard clearly."
+    ],
+    [
+     "家族がしんぱいしないように電話をかけます。",
+     "So that my family will not worry, I will call them."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 11.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "V2 is done in order to V1 (so that V1 happens).",
+    "o": [
+     "V1 dictionary form / ない-form ように、V2",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Put the goal (usually a potential verb or a verb that expresses a state) in the dictionary or ない-form before ように, then say what you do to reach it."
+   }
+  },
+  {
+   "id": "src-11-4",
+   "lesson": 11,
+   "p": "～ようになります",
+   "m": "Something changes to a different state; one comes to be able to do or to do something.",
+   "form": "V dictionary form ようになります",
+   "note": "Use the dictionary form (often the potential form) before ようになります to say that something became possible or a new habit was acquired.",
+   "ex": [
+    [
+     "日本語の漢字のビデオを見れば、漢字が読めるようになります。",
+     "If you watch kanji videos, you will be able to read kanji."
+    ],
+    [
+     "毎日使っているから、スマホで速くうてるようになりました。",
+     "I use it everyday, so I've become able to type fast on my smartphone."
+    ],
+    [
+     "人間は2おく年ぐらい前から肉を食べるようになりました。",
+     "Humans started to eat meat from about 2 million years ago."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 11.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Something changes to a different state; one comes to be able to do or to do something.",
+    "o": [
+     "V dictionary form ようになります",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the dictionary form (often the potential form) before ようになります to say that something became possible or a new habit was acquired."
+   }
+  },
+  {
+   "id": "src-11-5",
+   "lesson": 11,
+   "p": "～なくなります",
+   "m": "Something that used to be possible or habitual no longer is.",
+   "form": "V ～なくなります",
+   "note": "Change the ない-form of the verb to なく and add なります to express that a habit or ability which existed before has become obsolete.",
+   "ex": [
+    [
+     "ロックダウンだからおおぜいの人がじゆうに出かけられなくなります。",
+     "Because of the lockdown, many people won't be able to go out freely."
+    ],
+    [
+     "こどもたちは学校で勉強できなくなりました。",
+     "Children can no longer study at school."
+    ],
+    [
+     "パソコンを買ってから、もうテレビを見なくなりました。",
+     "Since I bought my computer, I don't watch TV anymore."
+    ],
+    [
+     "もうチョパンのきょくがひけるようになりましたか。",
+     "Have you been able to play Chopin's work? / No, not yet."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 11.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Something that used to be possible or habitual no longer is.",
+    "o": [
+     "V ～なくなります",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Change the ない-form of the verb to なく and add なります to express that a habit or ability which existed before has become obsolete."
+   }
+  },
+  {
+   "id": "src-11-6",
+   "lesson": 11,
+   "p": "～ようにしています",
+   "m": "I try to do / I try not to do (habitually).",
+   "form": "V dictionary form / ない-form ようにしています",
+   "note": "Use ようにしています to say that you make an ongoing effort to do something, or not to do something, as a habit.",
+   "ex": [
+    [
+     "できるだけ、毎日ジョッギングするようにしています。",
+     "Only if possible, I try to jog everyday."
+    ],
+    [
+     "できれば、毎月5万円ずつちょきんするようにしています。",
+     "If I can, I try to save 50,000 yen per month."
+    ],
+    [
+     "夜にねむれないから、寝る前に電子デバイスを使わないようにしています。",
+     "Because I can't fall asleep at night, I try not to use electronic devices before going to bed."
+    ],
+    [
+     "ふとりましたから、おかしを食べないようにしています。",
+     "Since I got fat, I try not to eat sweets."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 11.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "I try to do / I try not to do (habitually).",
+    "o": [
+     "V dictionary form / ない-form ようにしています",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use ようにしています to say that you make an ongoing effort to do something, or not to do something, as a habit."
+   }
+  },
+  {
+   "id": "src-11-7",
+   "lesson": 11,
+   "p": "～ようにしてください",
+   "m": "Please try to ~ / Please make sure to ~.",
+   "form": "V dictionary form / ない-form ようにしてください",
+   "note": "Use it to request that someone try to do something habitually and continuously. It can also politely request someone to try to do something in a one-off situation.",
+   "ex": [
+    [
+     "きそくをまもるようにしてください。",
+     "Please try to follow the rules."
+    ],
+    [
+     "明日はぜったいにおくれないようにしてください。",
+     "Please be sure not to be late tomorrow."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 11.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Please try to ~ / Please make sure to ~.",
+    "o": [
+     "V dictionary form / ない-form ようにしてください",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use it to request that someone try to do something habitually and continuously. It can also politely request someone to try to do something in a one-off situation."
+   }
+  },
+  {
+   "id": "src-11-8",
+   "lesson": 11,
+   "p": "AとかBとか",
+   "m": "Things like A and B; A, B and so on.",
+   "form": "Aとか Bとか",
+   "note": "Use とか after each item to give examples. It is similar to ～や～など.",
+   "ex": [
+    [
+     "そうですね。ダンスとかすいえいとか。。。",
+     "What kind of exercise do you do, Ms. Yamanaka? / Well, dancing, swimming and so on."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 11.pptx",
+   "slide": 8,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Things like A and B; A, B and so on.",
+    "o": [
+     "Aとか Bとか",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use とか after each item to give examples. It is similar to ～や～など."
+   }
+  },
+  {
+   "id": "src-12-3",
+   "lesson": 12,
+   "p": "Passive form",
+   "m": "Passive verb form (to be done by someone).",
+   "form": "Group 1: い-row → あ-row + れます / Group 2: られます / Group 3: こられます・されます",
+   "note": "Group 1: change the い-row sound of the ます form to the あ-row and add れます. Group 2: replace ます with られます. Group 3: 来ます → 来られます, します → されます.",
+   "ex": [
+    [
+     "たのまれる",
+     "to be asked / to be requested (Group 1)"
+    ],
+    [
+     "しかられる",
+     "to be scolded (Group 1)"
+    ],
+    [
+     "ほめられる",
+     "to be praised (Group 2)"
+    ],
+    [
+     "しょうたいされる",
+     "to be invited (Group 3)"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 12.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Passive verb form (to be done by someone).",
+    "o": [
+     "Group 1: い-row → あ-row + れます / Group 2: られます / Group 3: こられます・されます",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Group 1: change the い-row sound of the ます form to the あ-row and add れます. Group 2: replace ます with られます. Group 3: 来ます → 来られます, します → されます."
+   }
+  },
+  {
+   "id": "src-12-4",
+   "lesson": 12,
+   "p": "N1はN2に Passive Verb",
+   "m": "Person1 got something done by Person2. / Person2 did something to Person1.",
+   "form": "N1 (P1) は N2 (P2) に Passive Verb",
+   "note": "The person affected by the action becomes the topic (は) and the person who does the action is marked by に, followed by the passive verb. Active: 先生はわたしをほめました → Passive: わたしは先生にほめられました。",
+   "ex": [
+    [
+     "わたしは犬にかまれました。",
+     "I was bitten by a dog."
+    ],
+    [
+     "父にしかられました。",
+     "I was scolded by my father."
+    ],
+    [
+     "わたしは母に買い物をたのまれました。",
+     "I was asked to go shopping by my mother."
+    ],
+    [
+     "シュさんにパーティーにしょうたいされました。",
+     "I was invited to the party by Mr. Hsu."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 12.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Person1 got something done by Person2. / Person2 did something to Person1.",
+    "o": [
+     "N1 (P1) は N2 (P2) に Passive Verb",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "The person affected by the action becomes the topic (は) and the person who does the action is marked by に, followed by the passive verb. Active: 先生はわたしをほめました → Passive: わたしは先生にほめられました。"
+   }
+  },
+  {
+   "id": "src-12-5",
+   "lesson": 12,
+   "p": "N1はN2にN3を Passive Verb",
+   "m": "Person2 did something to Person1's belonging, and Person1 is annoyed or troubled by it.",
+   "form": "N1 (P1) は N2 (P2) に N3 を Passive Verb",
+   "note": "Use it when someone does something to your belonging and you are annoyed or troubled by it. Do not use it when you are grateful for what the other person did; use ～てもらいます instead.",
+   "ex": [
+    [
+     "わたしは弟にPS4をこわされました。",
+     "I got my PS4 broken by my little brother."
+    ],
+    [
+     "わたしはねこに手をかまれました。",
+     "I got my hand bitten by a cat."
+    ],
+    [
+     "わたしはどろぼうにカメラをとられました。",
+     "I got my camera stolen by a thief."
+    ],
+    [
+     "わたしは前にいる男に足をふまれました。",
+     "I got my foot stepped on by the man in front of me."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 12.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Person2 did something to Person1's belonging, and Person1 is annoyed or troubled by it.",
+    "o": [
+     "N1 (P1) は N2 (P2) に N3 を Passive Verb",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use it when someone does something to your belonging and you are annoyed or troubled by it. Do not use it when you are grateful for what the other person did; use ～てもらいます instead."
+   }
+  },
+  {
+   "id": "src-12-6",
+   "lesson": 12,
+   "p": "N が・は Passive Verb",
+   "m": "A noun (thing) has been done, discovered, exported or held.",
+   "form": "N (thing) が・は Passive Verb",
+   "note": "When the doer is not important, the thing itself becomes the subject or topic and the verb is in the passive form.",
+   "ex": [
+    [
+     "フランスでむかしの日本のえがはっけんされました。",
+     "An old Japanese painting has been discovered in France."
+    ],
+    [
+     "日本の車は せかいじゅうへ ゆしゅつされています。",
+     "Japanese cars are being exported all over the world."
+    ],
+    [
+     "つぎのオリンピックは東京で行なわれます。",
+     "The next Olympics is going to be held in Tokyo."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 12.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "A noun (thing) has been done, discovered, exported or held.",
+    "o": [
+     "N (thing) が・は Passive Verb",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "When the doer is not important, the thing itself becomes the subject or topic and the verb is in the passive form."
+   }
+  },
+  {
+   "id": "src-12-7",
+   "lesson": 12,
+   "p": "～によって",
+   "m": "N1 was created, invented or discovered by N2.",
+   "form": "N1 (thing) は N2 (person) によって Passive Verb",
+   "note": "Use によって instead of に to show the person who created, invented or discovered something.",
+   "ex": [
+    [
+     "ダビデのちょうこくはミケランジェロによってほられました。",
+     "The statue of David was sculpted by Michelangelo."
+    ],
+    [
+     "電話はベルによってはつめいされました。",
+     "The telephone was invented by Bell."
+    ],
+    [
+     "このワクチンは日本の理学者によってはっけんされました。",
+     "This vaccine was discovered by a Japanese scientist."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 12.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "N1 was created, invented or discovered by N2.",
+    "o": [
+     "N1 (thing) は N2 (person) によって Passive Verb",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use によって instead of に to show the person who created, invented or discovered something."
+   }
+  },
+  {
+   "id": "src-12-8",
+   "lesson": 12,
+   "p": "から・で つくられます",
+   "m": "N1 is made from / of N2.",
+   "form": "N1 は N2 から・で つくられます",
+   "note": "Use から when the original material changes form (beer from barley), and で when the material is still recognizable (a house made of wood).",
+   "ex": [
+    [
+     "ビールはむぎからつくられます。",
+     "Beer is made from barley."
+    ],
+    [
+     "むかし、日本の家はぜんぶ木でつくられました。",
+     "In the past, Japanese houses were all made of wood."
+    ],
+    [
+     "このかばんはアバカでつくられました。",
+     "This bag is made of abaca."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 12.pptx",
+   "slide": 8,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "N1 is made from / of N2.",
+    "o": [
+     "N1 は N2 から・で つくられます",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use から when the original material changes form (beer from barley), and で when the material is still recognizable (a house made of wood)."
+   }
+  },
+  {
+   "id": "src-13-3",
+   "lesson": 13,
+   "p": "V のは Adj です",
+   "m": "Doing [verb] is [adjective].",
+   "form": "V dictionary form のは Adjective です。",
+   "note": "Add の to the dictionary form of a verb to make it a noun phrase, then comment on it with an adjective such as 難しい, おもしろい or 大変.",
+   "ex": [
+    [
+     "バレーボールをするのはむずかしいです。",
+     "Playing volleyball is difficult."
+    ],
+    [
+     "バレーボールを見るのはおもしろいです。",
+     "Watching volleyball is interesting."
+    ],
+    [
+     "ラッシュに会社にかようのはたいへんです。",
+     "Commuting to work during rush hour is hard."
+    ],
+    [
+     "運転しながら、電話するのはあぶないです。",
+     "Talking on the phone while driving is dangerous."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 13.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Doing [verb] is [adjective].",
+    "o": [
+     "V dictionary form のは Adjective です。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Add の to the dictionary form of a verb to make it a noun phrase, then comment on it with an adjective such as 難しい, おもしろい or 大変."
+   }
+  },
+  {
+   "id": "src-13-4",
+   "lesson": 13,
+   "p": "V のが 好き・上手 etc.",
+   "m": "Likes, dislikes and skills related to doing a verb.",
+   "form": "V dictionary form のが Adjective です。",
+   "note": "With 好き, きらい, 上手, 下手, はやい, おそい and similar words, the particle が is used: ～が好き、～がきらい、～が上手、～が下手、～がはやい、～がおそい.",
+   "ex": [
+    [
+     "わたしは花をそだてるのが好きです。",
+     "I like growing flowers."
+    ],
+    [
+     "わたしはまけるのがきらいです。",
+     "I hate to lose."
+    ],
+    [
+     "ポールさんはうそを言うのが下手です。",
+     "Paul is not good at telling lies."
+    ],
+    [
+     "パブロさんは朝起きるのが早いです。",
+     "Pablo wakes up in the morning early."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 13.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Likes, dislikes and skills related to doing a verb.",
+    "o": [
+     "V dictionary form のが Adjective です。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "With 好き, きらい, 上手, 下手, はやい, おそい and similar words, the particle が is used: ～が好き、～がきらい、～が上手、～が下手、～がはやい、～がおそい."
+   }
+  },
+  {
+   "id": "src-13-5",
+   "lesson": 13,
+   "p": "V のをわすれました",
+   "m": "I forgot to do ~.",
+   "form": "V dictionary form のをわすれました。",
+   "note": "Use the dictionary form of the verb + のを before わすれました to say what you forgot to do.",
+   "ex": [
+    [
+     "ドアのかぎをかけるのをわすれました。",
+     "I forgot to lock the door."
+    ],
+    [
+     "買い物に行きましたが、ぎゅうにゅうを買うのをわすれました。",
+     "I went grocery shopping but I forgot to buy milk."
+    ],
+    [
+     "しゅくだいをしましたが、今日持って来るのをわすれました。",
+     "I did my homework, but I forgot to bring it today."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 13.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "I forgot to do ~.",
+    "o": [
+     "V dictionary form のをわすれました。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the dictionary form of the verb + のを before わすれました to say what you forgot to do."
+   }
+  },
+  {
+   "id": "src-13-6",
+   "lesson": 13,
+   "p": "V のを知っていますか",
+   "m": "Do you know that ...?",
+   "form": "V plain form のを知っていますか。",
+   "note": "Use the plain form of a verb (including past and passive forms) before のを to ask whether someone knows a fact.",
+   "ex": [
+    [
+     "マリアさんに赤ちゃんが生まれたのを知っていますか。",
+     "Do you know that Maria had a baby?"
+    ],
+    [
+     "ガウトさんが来月けっこんするのを知っていますか。",
+     "Do you know that Mr. Gauto is going to get married next month?"
+    ],
+    [
+     "北川先生が入院しているのを知っていますか。",
+     "Do you know that Ms. Kitagawa is in the hospital?"
+    ],
+    [
+     "UFOがアメリカで見られたのを知っていますか。",
+     "Do you know that a UFO was seen in the US?"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 13.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Do you know that ...?",
+    "o": [
+     "V plain form のを知っていますか。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the plain form of a verb (including past and passive forms) before のを to ask whether someone knows a fact."
+   }
+  },
+  {
+   "id": "src-13-7",
+   "lesson": 13,
+   "p": "のは N です",
+   "m": "The one that ... is Noun. / The one that ... is when / where / whose / what?",
+   "form": "V・い-adj plain form / な-adj・N な のは Noun です。",
+   "note": "Turn a sentence into a noun phrase with の and make it the topic. The answer, or the question word, comes at the end before です.",
+   "ex": [
+    [
+     "1年でいちばんいそがしいのは12月です。",
+     "The busiest month of the year is December."
+    ],
+    [
+     "父がなくなったのは十年前です。",
+     "The time I lost my father is 10 years ago."
+    ],
+    [
+     "わたしがほしいのは日本せいのスキンケアです。",
+     "What I want is skin care products made in Japan."
+    ],
+    [
+     "新しいビルができるのはいつですか。",
+     "The new building will be finished when?"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 13.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "The one that ... is Noun. / The one that ... is when / where / whose / what?",
+    "o": [
+     "V・い-adj plain form / な-adj・N な のは Noun です。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Turn a sentence into a noun phrase with の and make it the topic. The answer, or the question word, comes at the end before です."
+   }
+  },
+  {
+   "id": "src-13-8",
+   "lesson": 13,
+   "p": "～ときも・ときや・ときの・ときに",
+   "m": "The moment / time when ...",
+   "form": "～ときも / ～ときや / ～ときの / ～ときに",
+   "note": "とき can be followed by も, や, の or に, plus the particle から, to talk about the moment or time when something happens.",
+   "ex": [
+    [
+     "つかれたときやさびしいとき、家族を思い出す。",
+     "I remember my family like when I am tired or lonely."
+    ],
+    [
+     "生まれたときからずっとニューヨークに住んでいます。",
+     "I have been living in New York since I was born."
+    ],
+    [
+     "ヨーロッパへはじめて行ったときにいちばん楽しかったです。",
+     "When I first went to Europe was the most fun."
+    ],
+    [
+     "そつぎょうしたときの写真をみつけた。",
+     "I found pictures of when I graduated."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 13.pptx",
+   "slide": 8,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "The moment / time when ...",
+    "o": [
+     "～ときも / ～ときや / ～ときの / ～ときに",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "とき can be followed by も, や, の or に, plus the particle から, to talk about the moment or time when something happens."
+   }
+  },
+  {
+   "id": "src-14-3",
+   "lesson": 14,
+   "p": "～て、～",
+   "m": "Because Sentence 1, Sentence 2.",
+   "form": "Vて／Vなくて／い-adj(い)くて／な-adjで、Sentence 2",
+   "note": "Sentence 2 must NOT contain volition (will, orders, invitation, request); use から instead. It often shows a feeling, state or past situation.",
+   "ex": [
+    [
+     "じしんのニュースを聞いて、びっくりしました。",
+     "I was surprised to hear the earthquake news."
+    ],
+    [
+     "友達が会えなくて、さびしいです。",
+     "I'm sad because I can't meet my friends."
+    ],
+    [
+     "むずかしい漢字が多くて、新聞が読めません。",
+     "I can't read the newspaper because there are a lot of difficult kanji."
+    ],
+    [
+     "説明がふくざつで、ぜんぜんわかりません。",
+     "I can't understand it at all because the explanation is complicated."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 14.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Because Sentence 1, Sentence 2.",
+    "o": [
+     "Vて／Vなくて／い-adj(い)くて／な-adjで、Sentence 2",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Sentence 2 must NOT contain volition (will, orders, invitation, request); use から instead. It often shows a feeling, state or past situation."
+   }
+  },
+  {
+   "id": "src-14-4",
+   "lesson": 14,
+   "p": "N で、～",
+   "m": "Because of (natural phenomena, happenings, events), Sentence 2.",
+   "form": "Nounで、Sentence 2",
+   "note": "Use a noun + で for a cause such as a fire, earthquake, typhoon or illness. The sentence must NOT contain volition (will, orders, invitation, request).",
+   "ex": [
+    [
+     "火事で、家がやけました。",
+     "Because of the fire, the house was burned down."
+    ],
+    [
+     "じしんで、ビルがたおれました。",
+     "Because of the earthquake, a building collapsed."
+    ],
+    [
+     "たいふうで、しんかんせんが止まりました。",
+     "Because of the typhoon, bullet trains have stopped."
+    ],
+    [
+     "病気で、旅行に行けませんでした。",
+     "Because of illness, I was not able to go on a trip."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 14.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Because of (natural phenomena, happenings, events), Sentence 2.",
+    "o": [
+     "Nounで、Sentence 2",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use a noun + で for a cause such as a fire, earthquake, typhoon or illness. The sentence must NOT contain volition (will, orders, invitation, request)."
+   }
+  },
+  {
+   "id": "src-14-5",
+   "lesson": 14,
+   "p": "～ので、～",
+   "m": "Because / Since Sentence 1, Sentence 2.",
+   "form": "Plain form ので、Sentence 2　(な-adj／Noun + なので)",
+   "note": "～ので gives a cause objectively and softens the tone, so it suits gentle reasons, asking permission or excuses. Polite form (～ますので) also works.",
+   "ex": [
+    [
+     "タイに２年住んでいたので、タイ語が少し話せます。",
+     "I lived in Thailand for two years, so I can speak a little Thai."
+    ],
+    [
+     "今日は主人のたんじょうびなので、ケーキを買って帰ります。",
+     "Today is my husband's birthday, so I'll buy a cake and go home."
+    ],
+    [
+     "気分がわるいので、そうたいしてもいいですか。",
+     "I'm not feeling well, so can I leave early?"
+    ],
+    [
+     "ようじがあるので、お先にしつれいします。",
+     "I have something to do. Pardon me for leaving first."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 14.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Because / Since Sentence 1, Sentence 2.",
+    "o": [
+     "Plain form ので、Sentence 2　(な-adj／Noun + なので)",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "～ので gives a cause objectively and softens the tone, so it suits gentle reasons, asking permission or excuses. Polite form (～ますので) also works."
+   }
+  },
+  {
+   "id": "src-14-6",
+   "lesson": 14,
+   "p": "～とちゅうで",
+   "m": "During Verb / Noun ...",
+   "form": "Verb dictionary form／Noun の とちゅうで、Sentence 2",
+   "note": "Use a dictionary-form verb or a noun + の before とちゅうで to say that something happened in the middle of an action or journey.",
+   "ex": [
+    [
+     "じつは来るとちゅうで、じこがあって、バスがおくれてしまったんです。",
+     "Actually, on my way here there was an accident and the bus was delayed."
+    ],
+    [
+     "マラソンのとちゅうで、あのビルがばくはつした。",
+     "That building exploded during the marathon."
+    ],
+    [
+     "スピーチのとちゅうで、はきけがした。",
+     "I felt nauseous during the speech."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 14.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "During Verb / Noun ...",
+    "o": [
+     "Verb dictionary form／Noun の とちゅうで、Sentence 2",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use a dictionary-form verb or a noun + の before とちゅうで to say that something happened in the middle of an action or journey."
+   }
+  },
+  {
+   "id": "src-15-3",
+   "lesson": 15,
+   "p": "疑問詞 ＋ ～か、～",
+   "m": "Embeds a question (what, when, which, how much ...) as a clause in a larger sentence.",
+   "form": "Interrogative + V／adj／N plain form か、Sentence",
+   "note": "Put a question word with a plain-form verb, adjective or noun, then か, and continue the sentence. Use it with verbs like 知っている, わからない, おぼえている, かんがえる, しらべる.",
+   "ex": [
+    [
+     "先生は何と言ったか、おぼえていません。",
+     "I don't remember what the teacher said."
+    ],
+    [
+     "ゴッホの絵はいくらで売れたか、知っていますか。",
+     "Do you know how much the Gogh's painting was sold for?"
+    ],
+    [
+     "ミーティングはいつがいいか、考えてください。",
+     "Please think about when is a good time for a meeting."
+    ],
+    [
+     "この紙はどちらが表か、わかりません。",
+     "I don't know which is the front side of this paper."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 15.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Embeds a question (what, when, which, how much ...) as a clause in a larger sentence.",
+    "o": [
+     "Interrogative + V／adj／N plain form か、Sentence",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Put a question word with a plain-form verb, adjective or noun, then か, and continue the sentence. Use it with verbs like 知っている, わからない, おぼえている, かんがえる, しらべる."
+   }
+  },
+  {
+   "id": "src-15-4",
+   "lesson": 15,
+   "p": "～かどうか、～",
+   "m": "Whether or not ...",
+   "form": "V／adj／N plain form + かどうか、Sentence",
+   "note": "Use かどうか with a yes/no question that is placed inside a sentence. Verbs, い-adjectives, な-adjectives and nouns all take the plain form.",
+   "ex": [
+    [
+     "カードをもうしこむとき、はんこがひつようかどうか、教えてください。",
+     "Please tell me whether a hanko is necessary or not when I apply for the card."
+    ],
+    [
+     "にもつの重さが２０キロいかどうか、はかってください。",
+     "Please measure whether the weight of the package is less than 20 kilos or not."
+    ],
+    [
+     "道がこんでいて、間にあうかどうか、わかりません。",
+     "The street is congested, so I don't know whether we'll make it on time."
+    ],
+    [
+     "さあ、おいしいかどうか、わからない。",
+     "Well, I don't know whether it's good or not. I haven't eaten there before."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 15.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Whether or not ...",
+    "o": [
+     "V／adj／N plain form + かどうか、Sentence",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use かどうか with a yes/no question that is placed inside a sentence. Verbs, い-adjectives, な-adjectives and nouns all take the plain form."
+   }
+  },
+  {
+   "id": "src-15-5",
+   "lesson": 15,
+   "p": "～てみます",
+   "m": "Try to do Verb (and see how it goes).",
+   "form": "V て-form みます。",
+   "note": "Use the て-form of a verb + みます to try something and see how it turns out.",
+   "ex": [
+    [
+     "もういちど考えてみます。",
+     "I'll try to think it over again."
+    ],
+    [
+     "このズボンをはいてみてもいいですか。",
+     "May I try (wear) this pair of trousers?"
+    ],
+    [
+     "サイズがあうかどうか、着てみてください。",
+     "Please try it on and see whether the size fits or not."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 15.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Try to do Verb (and see how it goes).",
+    "o": [
+     "V て-form みます。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the て-form of a verb + みます to try something and see how it turns out."
+   }
+  },
+  {
+   "id": "src-15-6",
+   "lesson": 15,
+   "p": "～い → ～さ",
+   "m": "Changes an い-adjective into a noun (weight, height, length ...).",
+   "form": "い-adj (～い) → ～さ",
+   "note": "Drop the final い of the い-adjective and add さ to make a noun that expresses the degree or amount.",
+   "ex": [
+    [
+     "重さは100キロです。",
+     "The weight is 100 kilos."
+    ],
+    [
+     "富士山の高さは3776メートルです。",
+     "The height of Mt. Fuji is 3,776 meters."
+    ],
+    [
+     "ズボンの長さはだいじょうぶですか。",
+     "Is the length of the pants okay?"
+    ],
+    [
+     "このシャツの大きさはちょうどいいですね。",
+     "The size of this shirt is just right."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 15.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Changes an い-adjective into a noun (weight, height, length ...).",
+    "o": [
+     "い-adj (～い) → ～さ",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Drop the final い of the い-adjective and add さ to make a noun that expresses the degree or amount."
+   }
+  },
+  {
+   "id": "src-15-7",
+   "lesson": 15,
+   "p": "～でしょうか",
+   "m": "A softer, more polite way of saying ～ですか.",
+   "form": "～でしょうか。",
+   "note": "The speaker is wondering and asking in a more polite tone. ～でしょうか is also used in polite offers such as いかがでしょうか.",
+   "ex": [
+    [
+     "はるちゃんは学校でどうでしょうか？ちょっとしんぱいです。",
+     "I'm wondering how Haru-chan is doing at school? I'm a little worried."
+    ],
+    [
+     "じけんについて何か知っているでしょうか？",
+     "I'm wondering if you know anything about the incident?"
+    ],
+    [
+     "お飲み物はいかがでしょうか？",
+     "Would you like something to drink?"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 15.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "A softer, more polite way of saying ～ですか.",
+    "o": [
+     "～でしょうか。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "The speaker is wondering and asking in a more polite tone. ～でしょうか is also used in polite offers such as いかがでしょうか."
+   }
+  },
+  {
+   "id": "src-16-3",
+   "lesson": 16,
+   "p": "やります／さしあげます",
+   "m": "Give to ~",
+   "form": "Receiver に Object を やります／さしあげます",
+   "note": "For lower-status people, animals or plants use やります; for a person あげます is often preferred. さしあげます shows polite respect to the receiver.",
+   "ex": [
+    [
+     "わたしは友だちにおみやげをあげました。",
+     "I gave a souvenir to my friend."
+    ],
+    [
+     "わたしは社長におみやげをさしあげました。",
+     "I gave the president a souvenir."
+    ],
+    [
+     "わたしは犬にえさをやりました。",
+     "I gave the dog some food."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 16.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Give to ~",
+    "o": [
+     "Receiver に Object を やります／さしあげます",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "For lower-status people, animals or plants use やります; for a person あげます is often preferred. さしあげます shows polite respect to the receiver."
+   }
+  },
+  {
+   "id": "src-16-4",
+   "lesson": 16,
+   "p": "いただきます",
+   "m": "Receive something from a person of higher status.",
+   "form": "Giver に Object を いただきます",
+   "note": "When the speaker receives a thing from a person of higher social status (e.g. 部長, かちょう, 先生), いただきます is used instead of もらいます.",
+   "ex": [
+    [
+     "わたしは部長におみやげをいただきました。",
+     "I received a souvenir from the manager."
+    ],
+    [
+     "先生にすてきなえはがきをいただきました。",
+     "I received a nice picture postcard from my teacher."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 16.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Receive something from a person of higher status.",
+    "o": [
+     "Giver に Object を いただきます",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "When the speaker receives a thing from a person of higher social status (e.g. 部長, かちょう, 先生), いただきます is used instead of もらいます."
+   }
+  },
+  {
+   "id": "src-16-5",
+   "lesson": 16,
+   "p": "くださいます",
+   "m": "A person of higher status gives something to the speaker or the speaker's family.",
+   "form": "Giver は・が Object を くださいます",
+   "note": "When a person of higher social status gives the speaker or the speaker's family member something, くださいます is used instead of くれます.",
+   "ex": [
+    [
+     "店長が(わたしに)おかしをくださいました。",
+     "The store manager gave me sweets."
+    ],
+    [
+     "かちょうが娘にチョコレートをくださいました。",
+     "The department head gave chocolate to my daughter."
+    ],
+    [
+     "フェルナンデスさんがけっこんのおいわいにこのおさらをくださいました。",
+     "Mr. Fernandes gave this plate as a wedding gift."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 16.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "A person of higher status gives something to the speaker or the speaker's family.",
+    "o": [
+     "Giver は・が Object を くださいます",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "When a person of higher social status gives the speaker or the speaker's family member something, くださいます is used instead of くれます."
+   }
+  },
+  {
+   "id": "src-16-6",
+   "lesson": 16,
+   "p": "～てやります",
+   "m": "Give / do Verb for someone.",
+   "form": "(Receiver に) Verb て-form やります／あげます",
+   "note": "Add the て-form of the verb before やります or あげます to say you did an action for someone. The same giving verbs are used as for objects.",
+   "ex": [
+    [
+     "わたしは息子にえほんを読んでやりました。(あげました)",
+     "I read a picture book to my son."
+    ],
+    [
+     "わたしは犬をさんぽに連れて行ってやりました。",
+     "I took my dog for a walk."
+    ],
+    [
+     "わたしは娘のしゅくだいを見てやりました。(あげました)",
+     "I checked my daughter's homework."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 16.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Give / do Verb for someone.",
+    "o": [
+     "(Receiver に) Verb て-form やります／あげます",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Add the て-form of the verb before やります or あげます to say you did an action for someone. The same giving verbs are used as for objects."
+   }
+  },
+  {
+   "id": "src-16-7",
+   "lesson": 16,
+   "p": "～ていただきます／～てくださいます",
+   "m": "Receive an action from a person of higher status.",
+   "form": "Giver に Verb て-form いただきます／Giver は・が Verb て-form くださいます",
+   "note": "Use ～ていただきます when you receive the action (Giver に). Use ～てくださいます when a higher person does it for you (Giver は・が).",
+   "ex": [
+    [
+     "わたしはかちょうにビデオカメラを貸していただきました。",
+     "The department chief lent me a video camera."
+    ],
+    [
+     "水谷先生に文法を説明していただきました。",
+     "Mr. Mizutani explained the grammar to me."
+    ],
+    [
+     "フェレイラさんが(わたしの)おみまいに来てくださいました。",
+     "Mr. Ferreira came to visit me. (wish me well)"
+    ],
+    [
+     "明日社長が(わたしを)くうこうまで送ってくださいます。",
+     "Tomorrow, the company president will send me to the airport."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 16.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Receive an action from a person of higher status.",
+    "o": [
+     "Giver に Verb て-form いただきます／Giver は・が Verb て-form くださいます",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use ～ていただきます when you receive the action (Giver に). Use ～てくださいます when a higher person does it for you (Giver は・が)."
+   }
+  },
+  {
+   "id": "src-16-8",
+   "lesson": 16,
+   "p": "～てくださいませんか",
+   "m": "Will you kindly ...?",
+   "form": "Verb て-form くださいませんか　(くれませんか)",
+   "note": "A polite way to ask someone to do something for you. くださいませんか is the polite form of くれませんか.",
+   "ex": [
+    [
+     "よく聞こえませんでしたが、もういちど言ってくださいませんか。",
+     "I didn't hear it well, will you kindly say it one more time?"
+    ],
+    [
+     "コピーきが動きませんが、ちょっと見てくださいませんか。",
+     "The copying machine is not working, could you please take a look?"
+    ],
+    [
+     "セーターのサイズをまちがえましたが、とりかえてくださいませんか。",
+     "I've got the size of this sweater wrong, may I ask you to exchange it?"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 16.pptx",
+   "slide": 8,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Will you kindly ...?",
+    "o": [
+     "Verb て-form くださいませんか　(くれませんか)",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "A polite way to ask someone to do something for you. くださいませんか is the polite form of くれませんか."
+   }
+  },
+  {
+   "id": "src-16-9",
+   "lesson": 16,
+   "p": "N に ～",
+   "m": "As a token of ... / in memory of ...",
+   "form": "Noun に Verb",
+   "note": "Use に after a noun such as おみやげ, おいわい or おみまい to say what the thing is given or bought as.",
+   "ex": [
+    [
+     "ロシア旅行のおみやげににんぎょうを買いました。",
+     "I bought a doll as a souvenir of the trip to Russia."
+    ],
+    [
+     "おみまいにくだものを持ってきました。",
+     "I brought some fruits. (as a consolatory gift to a sick person)"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 16.pptx",
+   "slide": 9,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "As a token of ... / in memory of ...",
+    "o": [
+     "Noun に Verb",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use に after a noun such as おみやげ, おいわい or おみまい to say what the thing is given or bought as."
+   }
+  },
+  {
+   "id": "src-17-3",
+   "lesson": 17,
+   "p": "V ～ために",
+   "m": "In order to Verb ...",
+   "form": "Verb dictionary form ために、Volitional Sentence",
+   "note": "Use the dictionary form of a volitional verb before ために. The second part must express the speaker's will (volition).",
+   "ex": [
+    [
+     "べんごしになるためにほうりつを勉強するつもりです。",
+     "I will study law in order to become a lawyer."
+    ],
+    [
+     "大学院に入るために会社をやめようと思っています。",
+     "I'm thinking of quitting my work to enter grad school."
+    ],
+    [
+     "自分の店を持つためにちょきんしています。",
+     "I am saving money in order to have my own shop."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 17.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "In order to Verb ...",
+    "o": [
+     "Verb dictionary form ために、Volitional Sentence",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the dictionary form of a volitional verb before ために. The second part must express the speaker's will (volition)."
+   }
+  },
+  {
+   "id": "src-17-4",
+   "lesson": 17,
+   "p": "N の ～ために",
+   "m": "For the sake of Noun ...",
+   "form": "Noun の ために、Volitional Sentence",
+   "note": "Use a noun + の before ために to say what the action is done for. The second part must express volition.",
+   "ex": [
+    [
+     "仕事のために毎週日本語を習っています。",
+     "For the sake of my job, I'm taking Japanese lessons every week."
+    ],
+    [
+     "こくさいもんだいのけんきゅうのためにアメリカへりゅうがくします。",
+     "I'm going to study in America for International Issues studies."
+    ],
+    [
+     "日本語の勉強のために電子じしょを買うつもりです。",
+     "I will buy an electronic dictionary for my Japanese studies."
+    ],
+    [
+     "こどものきょういくのためにたくさんちょきんしなければなりません。",
+     "I have to save a lot for my children's education."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 17.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "For the sake of Noun ...",
+    "o": [
+     "Noun の ために、Volitional Sentence",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use a noun + の before ために to say what the action is done for. The second part must express volition."
+   }
+  },
+  {
+   "id": "src-17-5",
+   "lesson": 17,
+   "p": "～ように",
+   "m": "So that (hopefully) ...",
+   "form": "Non-volitional Verb dictionary form／Verb ない ように、Volitional Sentence",
+   "note": "Use ように with a non-volitional verb (potential verbs, stative verbs such as わかります, 聞こえます, 見えます, or negative verbs). The speaker hopes to reach the goal by doing a certain action.",
+   "ex": [
+    [
+     "自分の店を持てるようにちょきんしています。",
+     "I am saving money so hopefully I am able to have my own shop."
+    ],
+    [
+     "日本語で上手に話せるように毎日勉強しています。",
+     "I study every day so hopefully I can speak well in Japanese."
+    ],
+    [
+     "べんごしになるようにほうりつを勉強しています。",
+     "I study law so hopefully I will become a lawyer. (hopeful)"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 17.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "So that (hopefully) ...",
+    "o": [
+     "Non-volitional Verb dictionary form／Verb ない ように、Volitional Sentence",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use ように with a non-volitional verb (potential verbs, stative verbs such as わかります, 聞こえます, 見えます, or negative verbs). The speaker hopes to reach the goal by doing a certain action."
+   }
+  },
+  {
+   "id": "src-17-6",
+   "lesson": 17,
+   "p": "～のに／Nに",
+   "m": "For the purpose of ...",
+   "form": "Verb dictionary form のに／Noun に、～",
+   "note": "Use のに after a verb (に after a noun) with 使います, やくに立ちます, [時間]がかかります, いいです, 便利です or ひつようです to say what something is for.",
+   "ex": [
+    [
+     "ふろしきはものをつつむのにやくに立ちます。",
+     "Japanese wrapping cloth is useful to wrap things up."
+    ],
+    [
+     "そろばんはけいさんするのに時間がかかります。",
+     "It takes time to calculate with an abacus."
+    ],
+    [
+     "ええ、買い物に便利です。",
+     "Yeah, it's convenient for shopping."
+    ],
+    [
+     "ええ、旅行に便利です。",
+     "Yeah, it's convenient for traveling."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 17.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "For the purpose of ...",
+    "o": [
+     "Verb dictionary form のに／Noun に、～",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use のに after a verb (に after a noun) with 使います, やくに立ちます, [時間]がかかります, いいです, 便利です or ひつようです to say what something is for."
+   }
+  },
+  {
+   "id": "src-17-7",
+   "lesson": 17,
+   "p": "数量 ＋ は",
+   "m": "At least (amount)",
+   "form": "Quantifier は",
+   "note": "Put は after a quantity to show that this is the minimum amount needed or required.",
+   "ex": [
+    [
+     "うちを建てるのに、４０００万円はひつようです。",
+     "At least forty million yen is required to build the house."
+    ],
+    [
+     "漢字を２０００おぼえるのに、３年はかかります。",
+     "It takes at least 3 years to learn 2000 kanji."
+    ],
+    [
+     "東京で一人でせいかつするのに月に２０万円はいります。",
+     "It costs at least 200,000 yen a month to live alone in Tokyo."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 17.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "At least (amount)",
+    "o": [
+     "Quantifier は",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Put は after a quantity to show that this is the minimum amount needed or required."
+   }
+  },
+  {
+   "id": "src-17-8",
+   "lesson": 17,
+   "p": "数量 ＋ も",
+   "m": "Takes as much as (amount)",
+   "form": "Quantifier も",
+   "note": "Put も after a quantity to show that the amount is large, as much as or as long as that figure.",
+   "ex": [
+    [
+     "うちを建てるのに、４０００万円もひつようですか。",
+     "Does it take as much as forty million yen to build the house?"
+    ],
+    [
+     "漢字を２０００おぼえるのに、３年もかかりますか。",
+     "Does it take as long as 3 years to learn 2000 kanji?"
+    ],
+    [
+     "東京で一人でせいかつするのに月に２０万円もいります。",
+     "It costs as much as 200,000 yen a month to live alone in Tokyo."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 17.pptx",
+   "slide": 8,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Takes as much as (amount)",
+    "o": [
+     "Quantifier も",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Put も after a quantity to show that the amount is large, as much as or as long as that figure."
+   }
+  },
+  {
+   "id": "src-18-3",
+   "lesson": 18,
+   "p": "V(stem) そうです",
+   "m": "Looks / seems like it is going to ... / it is about to ...",
+   "form": "Verb ます(stem) そうです",
+   "note": "Drop ます from the verb and add そうです to say that something looks like it is just about to happen.",
+   "ex": [
+    [
+     "もうあかちゃんが生まれそうだから、すぐタクシーをよんでください！",
+     "It feels the baby's coming out! Please call a taxi right away."
+    ],
+    [
+     "中東せんそうでガソリンのねだんが上がりそうです。",
+     "Looks like the price of gas will increase because of the war in the Middle East."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 18.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Looks / seems like it is going to ... / it is about to ...",
+    "o": [
+     "Verb ます(stem) そうです",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Drop ます from the verb and add そうです to say that something looks like it is just about to happen."
+   }
+  },
+  {
+   "id": "src-18-4",
+   "lesson": 18,
+   "p": "Adj そうです",
+   "m": "Judging from the appearance, it looks / seems like ...",
+   "form": "い-adj(～い)・な-adj(～な) そうです",
+   "note": "Drop the final い of an い-adjective or the な of a な-adjective and add そうです. For よい the stem changes to よさ (よさそうです). It is also used to describe other people's feelings.",
+   "ex": [
+    [
+     "この料理はおいしそうです。",
+     "This dish looks delicious."
+    ],
+    [
+     "かのじょはあたまがよさそうです。",
+     "She seems smart."
+    ],
+    [
+     "このつくえはじょうぶそうです。",
+     "This desk looks strong and durable."
+    ],
+    [
+     "え、一人で住んでいるんですか。さびしそう。",
+     "Oh you live alone? That seems lonely."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 18.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Judging from the appearance, it looks / seems like ...",
+    "o": [
+     "い-adj(～い)・な-adj(～な) そうです",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Drop the final い of an い-adjective or the な of a な-adjective and add そうです. For よい the stem changes to よさ (よさそうです). It is also used to describe other people's feelings."
+   }
+  },
+  {
+   "id": "src-18-5",
+   "lesson": 18,
+   "p": "V て 来ます",
+   "m": "To go somewhere, do something and come back.",
+   "form": "Verb て-form 来ます",
+   "note": "Use the て-form of a verb followed by 来ます to say you will go to do something and then return.",
+   "ex": [
+    [
+     "ちょっとコンビニでコーヒーを買って来ます。",
+     "I'll just buy a coffee at the convenience store. (then come back)"
+    ],
+    [
+     "キッチンからおやつをとって来ますね。",
+     "I'm going to get some snacks from the kitchen. (and come back)"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 18.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "To go somewhere, do something and come back.",
+    "o": [
+     "Verb て-form 来ます",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the て-form of a verb followed by 来ます to say you will go to do something and then return."
+   }
+  },
+  {
+   "id": "src-18-6",
+   "lesson": 18,
+   "p": "出かけて来ます",
+   "m": "To go out and come back.",
+   "form": "出かけて 来ます",
+   "note": "出かけて来ます is a set phrase used when you step out for a while and will return soon.",
+   "ex": [
+    [
+     "どこへ行くんですか。／ちょっと出かけて来ます。",
+     "Where are you going? / I'm going out (and coming back soon)."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 18.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "To go out and come back.",
+    "o": [
+     "出かけて 来ます",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "出かけて来ます is a set phrase used when you step out for a while and will return soon."
+   }
+  },
+  {
+   "id": "src-19-3",
+   "lesson": 19,
+   "p": "～すぎます",
+   "m": "To do something too much, excessively; something is too ...",
+   "form": "Verb (stem)／い-adj(～い)／な-adj(～な) すぎます",
+   "note": "Drop ます from a verb, the final い of an い-adjective or the な of a な-adjective, and add すぎます to say something is too much or excessive.",
+   "ex": [
+    [
+     "ニューヨークでのやちんは日本より高すぎます。",
+     "Rent in New York is way too expensive than in Japan."
+    ],
+    [
+     "(わたしには)このセーターは大きすぎます。",
+     "This sweater is too large. (for me)"
+    ],
+    [
+     "テストのもんだいがかんたんすぎる。",
+     "The test questions are too easy. (for me)"
+    ],
+    [
+     "何回もお金貸してあげたの？やさしすぎるよ。",
+     "You lent him money many times? You are too kind."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 19.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "To do something too much, excessively; something is too ...",
+    "o": [
+     "Verb (stem)／い-adj(～い)／な-adj(～な) すぎます",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Drop ます from a verb, the final い of an い-adjective or the な of a な-adjective, and add すぎます to say something is too much or excessive."
+   }
+  },
+  {
+   "id": "src-19-4",
+   "lesson": 19,
+   "p": "～やすい／～にくい",
+   "m": "Something is easy / difficult to Verb.",
+   "form": "Verb ます(stem) やすいです／にくいです",
+   "note": "Drop ます and add やすい or にくい. It also says that something will or won't easily happen. The result behaves like an い-adjective (飲みやすくなります).",
+   "ex": [
+    [
+     "このアプリは使いやすいです。",
+     "This (phone) app is easy to use."
+    ],
+    [
+     "先生の説明はわかりやすいです。",
+     "The teacher's explanation is easy to understand."
+    ],
+    [
+     "はしでは食べにくいです。",
+     "It's hard to eat with chopsticks."
+    ],
+    [
+     "雪の日は道がよくすべりやすいです。",
+     "On snowy days, it's easy to slip on the roads."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 19.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Something is easy / difficult to Verb.",
+    "o": [
+     "Verb ます(stem) やすいです／にくいです",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Drop ます and add やすい or にくい. It also says that something will or won't easily happen. The result behaves like an い-adjective (飲みやすくなります)."
+   }
+  },
+  {
+   "id": "src-19-5",
+   "lesson": 19,
+   "p": "～く／～にします",
+   "m": "To turn something into a certain state.",
+   "form": "い-adj(～い) → く ／ な-adj・Noun に + します",
+   "note": "Change an い-adjective to ～く, or add に to a な-adjective or noun, then use します. Compare ～くなります (something becomes) with ～くします (somebody makes it so).",
+   "ex": [
+    [
+     "前がみがもう長いですから、少し短くしてください。",
+     "My bangs are already long, please make it short a little."
+    ],
+    [
+     "ちょっと待って、部屋をきれいにします。",
+     "Wait a moment, I'll just tidy up my room."
+    ],
+    [
+     "ごはんのりょうは多すぎるから、半分にしてください。",
+     "The amount of rice is too much, please cut it in half."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 19.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "To turn something into a certain state.",
+    "o": [
+     "い-adj(～い) → く ／ な-adj・Noun に + します",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Change an い-adjective to ～く, or add に to a な-adjective or noun, then use します. Compare ～くなります (something becomes) with ～くします (somebody makes it so)."
+   }
+  },
+  {
+   "id": "src-19-6",
+   "lesson": 19,
+   "p": "N にします",
+   "m": "I will have / select / take ~ (expresses selection or decision).",
+   "form": "Noun にします",
+   "note": "Use Noun + にします to say what you choose or decide on, such as an item on a menu or a room type.",
+   "ex": [
+    [
+     "部屋はシングルにしますか、ツインにしますか。",
+     "Would you like a single room or a twin room?"
+    ],
+    [
+     "シングルにします。",
+     "I'll have the single room."
+    ],
+    [
+     "ランチは何にしましょうか。",
+     "What shall we have for lunch?"
+    ],
+    [
+     "昨日和食を食べたから、今日ようしょくにしましょうよ。",
+     "We had Japanese food yesterday, so let's have western food today."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 19.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "I will have / select / take ~ (expresses selection or decision).",
+    "o": [
+     "Noun にします",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use Noun + にします to say what you choose or decide on, such as an item on a menu or a room type."
+   }
+  },
+  {
+   "id": "src-19-7",
+   "lesson": 19,
+   "p": "～く／～に + Verb",
+   "m": "To do something in a certain way.",
+   "form": "い-adj(～い) → く ／ な-adj に + Verb",
+   "note": "Turn the adjective into an adverb with く (い-adj) or に (な-adj) and put it before the verb to say how the action is done.",
+   "ex": [
+    [
+     "やさいをこまかく切ってください。",
+     "Please cut the vegetables into small pieces."
+    ],
+    [
+     "見たことをくわしくせつめいしてください。",
+     "Please explain in detail what you've seen."
+    ],
+    [
+     "もう少ししずかに話しましょう。",
+     "Please talk more quietly."
+    ],
+    [
+     "電気や水は大切に使いましょう。",
+     "Let's conserve electricity and water."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 19.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "To do something in a certain way.",
+    "o": [
+     "い-adj(～い) → く ／ な-adj に + Verb",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Turn the adjective into an adverb with く (い-adj) or に (な-adj) and put it before the verb to say how the action is done."
+   }
+  },
+  {
+   "id": "src-20-3",
+   "lesson": 20,
+   "p": "～場合は",
+   "m": "In case that ... / If ... happens",
+   "form": "V・い-adj・な-adj な・N の 場合は～",
+   "note": "Use 場合は after the dictionary form, た-form or ない-form of a verb, an い-adjective, a な-adjective (+な) or a noun (+の) to describe a situation, followed by what to do in that case.",
+   "ex": [
+    [
+     "よやくをキャンセルする場合はいつでもれんらくしてください。",
+     "In case you will cancel the reservation, just contact us anytime."
+    ],
+    [
+     "火事が起きた場合はすぐに119に電話してください。",
+     "In case there is a fire, call 119 right away."
+    ],
+    [
+     "はんこが見つからない場合はどうしたらいいですか。",
+     "In case I can't find my seal, what should I do?"
+    ],
+    [
+     "ねつが高い場合はこのくすりを飲んでください。",
+     "In case your fever is high, please take this medicine."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 20.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "In case that ... / If ... happens",
+    "o": [
+     "V・い-adj・な-adj な・N の 場合は～",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use 場合は after the dictionary form, た-form or ない-form of a verb, an い-adjective, a な-adjective (+な) or a noun (+の) to describe a situation, followed by what to do in that case."
+   }
+  },
+  {
+   "id": "src-20-4",
+   "lesson": 20,
+   "p": "Noun の場合は",
+   "m": "In case of (an event) ...",
+   "form": "N + の場合は～",
+   "note": "Put の between a noun and 場合は to talk about what to do in the case of that event.",
+   "ex": [
+    [
+     "りょうしゅうしょが必要な場合は店の人に言ってください。",
+     "In case a receipt is needed, just tell the store staff."
+    ],
+    [
+     "じしんの場合はひじょうぐちからにげてください。",
+     "In case of an earthquake, run away through the emergency exit."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 20.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "In case of (an event) ...",
+    "o": [
+     "N + の場合は～",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Put の between a noun and 場合は to talk about what to do in the case of that event."
+   }
+  },
+  {
+   "id": "src-20-5",
+   "lesson": 20,
+   "p": "～のに",
+   "m": "Even though ... / Despite the fact that ...",
+   "form": "V (plain form)・い-adj・な-adj な・N な + のに～",
+   "note": "Use のに to connect two sentences when the result is the opposite of what you would expect. It often carries a feeling of surprise or complaint.",
+   "ex": [
+    [
+     "やくそくしたのに、かれは来ませんでした。",
+     "He did not come, even though he promised."
+    ],
+    [
+     "ケーキを食べるなと言ったのに、何で食べたの。",
+     "Despite the fact that I told you not to eat the cake, why did you still eat it?"
+    ],
+    [
+     "お母さんが毎日おべんとうを作ってくれているのに、今日は作らなかった。",
+     "My mother makes me bento every day. Today, she didn't."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 20.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Even though ... / Despite the fact that ...",
+    "o": [
+     "V (plain form)・い-adj・な-adj な・N な + のに～",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use のに to connect two sentences when the result is the opposite of what you would expect. It often carries a feeling of surprise or complaint."
+   }
+  },
+  {
+   "id": "src-20-6",
+   "lesson": 20,
+   "p": "Adjective / Noun + のに",
+   "m": "Even though ... (adjective / noun)",
+   "form": "い-adj・な-adj な・N な + のに～",
+   "note": "い-adjectives connect directly to のに, while な-adjectives and nouns take な before のに.",
+   "ex": [
+    [
+     "りょうしんがせが高いのに、わたしはせが低いんです。",
+     "Although both my parents are tall, I'm short."
+    ],
+    [
+     "高かったのに、この車がよくこしょうします。",
+     "Even though it was expensive, this car always breaks down."
+    ],
+    [
+     "いちばん上手なのに、かのじょは一位じゃなかった。",
+     "Even though she's the most skilled, she didn't get first place."
+    ],
+    [
+     "今日は休みなのに、仕事をしなければなりません。",
+     "Even though today is my day off, I have to work."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 20.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Even though ... (adjective / noun)",
+    "o": [
+     "い-adj・な-adj な・N な + のに～",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "い-adjectives connect directly to のに, while な-adjectives and nouns take な before のに."
+   }
+  },
+  {
+   "id": "src-20-7",
+   "lesson": 20,
+   "p": "のに vs が・ても",
+   "m": "Choosing between が (but), ても (even if) and のに (even though)",
+   "form": "～ですが、～ / ～ても、～ / ～のに、～",
+   "note": "が simply contrasts two facts (but). ても means \"even if\", and のに means \"even though\" with a feeling of surprise. Use the one that fits the meaning.",
+   "ex": [
+    [
+     "この部屋は広いですが、暗いです。",
+     "This room is big, but dark."
+    ],
+    [
+     "この家は古いですが、きれいです。",
+     "This house is old, but beautiful."
+    ],
+    [
+     "この部屋はまどがたくさんありますが、暗いです。",
+     "This room has a lot of windows but it's dark."
+    ],
+    [
+     "この部屋はまどがたくさんあるのに、暗いです。",
+     "Even though there are many windows, it's dark."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 20.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Choosing between が (but), ても (even if) and のに (even though)",
+    "o": [
+     "～ですが、～ / ～ても、～ / ～のに、～",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "が simply contrasts two facts (but). ても means \"even if\", and のに means \"even though\" with a feeling of surprise. Use the one that fits the meaning."
+   }
+  },
+  {
+   "id": "src-21-3",
+   "lesson": 21,
+   "p": "V dictionary form + ところです",
+   "m": "I am just about to do ~",
+   "form": "V (dictionary form) + ところです。",
+   "note": "Use the dictionary form of the verb with ところです to say that you are at the point just before an action starts. Example form: 食べる → 食べるところです。",
+   "ex": [
+    [
+     "食べるところです。",
+     "I am just about to eat."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 21.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "I am just about to do ~",
+    "o": [
+     "V (dictionary form) + ところです。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the dictionary form of the verb with ところです to say that you are at the point just before an action starts. Example form: 食べる → 食べるところです。"
+   }
+  },
+  {
+   "id": "src-21-4",
+   "lesson": 21,
+   "p": "V ている + ところです",
+   "m": "I am in the middle of doing ~",
+   "form": "V ている-form + ところです。",
+   "note": "Use the ている-form with ところです to say that the action is in progress right now. 今 is often used with it.",
+   "ex": [
+    [
+     "今考えているところです。",
+     "Have you decided where you will go on summer vacation? / I'm thinking now."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 21.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "I am in the middle of doing ~",
+    "o": [
+     "V ている-form + ところです。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the ている-form with ところです to say that the action is in progress right now. 今 is often used with it."
+   }
+  },
+  {
+   "id": "src-21-5",
+   "lesson": 21,
+   "p": "V た-form + ところです",
+   "m": "I have just done ~ (a moment ago)",
+   "form": "V た-form + ところです。",
+   "note": "Use the た-form with ところです to say that an action has only just finished. たった今 (just now) is often added. After a noun, ところなのです can also be used.",
+   "ex": [
+    [
+     "たった今バスが出たところです。",
+     "The bus left just now."
+    ],
+    [
+     "バスが出たところなのです。",
+     "Why are you still here? / Because the bus just left."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 21.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "I have just done ~ (a moment ago)",
+    "o": [
+     "V た-form + ところです。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the た-form with ところです to say that an action has only just finished. たった今 (just now) is often added. After a noun, ところなのです can also be used."
+   }
+  },
+  {
+   "id": "src-21-6",
+   "lesson": 21,
+   "p": "V た-form + ばかりです",
+   "m": "Have just done ~ / just finished ~",
+   "form": "V た-form + ばかりです。",
+   "note": "Use the た-form with ばかりです to say that an action has just finished. It is often used to explain a reason or a result that follows from that.",
+   "ex": [
+    [
+     "起きたばかりですから、しょくよくがありません。",
+     "I just woke up, so I don't feel like eating yet."
+    ],
+    [
+     "たいいんしたばかりなので、まだスポーツはできません。",
+     "I just got out from the hospital, so I can't play sports yet."
+    ],
+    [
+     "あの二人は去年けっこんしたばかりなのに、もうりこんしてしまいました。",
+     "Even though those two just got married last year, they already got a divorce."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 21.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Have just done ~ / just finished ~",
+    "o": [
+     "V た-form + ばかりです。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use the た-form with ばかりです to say that an action has just finished. It is often used to explain a reason or a result that follows from that."
+   }
+  },
+  {
+   "id": "src-21-7",
+   "lesson": 21,
+   "p": "～はずです",
+   "m": "It is certain ... / I'm sure ... / supposed to ... / should be ...",
+   "form": "V (plain)・い-adj・な-adj な・N の + はずです。",
+   "note": "Use はずです to say that something is expected to be true based on a reason. Attach it to the plain form, an い-adjective, a な-adjective (+な) or a noun (+の).",
+   "ex": [
+    [
+     "一ヶ月ほど旅行に行くと言っていましたので、るすのはずです。",
+     "Are your neighbors out? / They said they'll go on a trip for about a month, so I suppose they're not there."
+    ],
+    [
+     "びじゅつを勉強しているから、上手なはずです。",
+     "Is Olivia good at drawing? / She is studying art, so I'm sure she is good."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 21.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "It is certain ... / I'm sure ... / supposed to ... / should be ...",
+    "o": [
+     "V (plain)・い-adj・な-adj な・N の + はずです。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use はずです to say that something is expected to be true based on a reason. Attach it to the plain form, an い-adjective, a な-adjective (+な) or a noun (+の)."
+   }
+  },
+  {
+   "id": "src-22-3",
+   "lesson": 22,
+   "p": "～そうです (hearsay)",
+   "m": "I heard (from a source) that ...",
+   "form": "V・い-adj・な-adj だ・N だ (plain form) + そうです。",
+   "note": "Attach そうです to the plain form of a verb, い-adjective, な-adjective (+だ) or noun (+だ) to pass on information you heard from someone or somewhere.",
+   "ex": [
+    [
+     "雨が降るそうです。",
+     "I heard that it will rain."
+    ],
+    [
+     "この料理はおいしいそうです。",
+     "I heard that this food is delicious."
+    ],
+    [
+     "天気よほうによると、明日はさむくなるそうです。",
+     "According to the weather forecast, it will be cold tomorrow."
+    ],
+    [
+     "明日だそうです。",
+     "When is the new manager coming? / I heard it's tomorrow."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 22.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "I heard (from a source) that ...",
+    "o": [
+     "V・い-adj・な-adj だ・N だ (plain form) + そうです。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Attach そうです to the plain form of a verb, い-adjective, な-adjective (+だ) or noun (+だ) to pass on information you heard from someone or somewhere."
+   }
+  },
+  {
+   "id": "src-22-4",
+   "lesson": 22,
+   "p": "～そうです vs ～と言っていました",
+   "m": "I heard that ... (a person or a source said so)",
+   "form": "Plain form + そうです。",
+   "note": "Hearsay そうです can be compared with ～と言っていました (said that ...). Both pass on what someone else said.",
+   "ex": [
+    [
+     "ヴィンセントは明日京都へ行くそうです。",
+     "I heard that Vincent is going to Kyoto tomorrow."
+    ],
+    [
+     "ヴィンセントは明日京都へ行くと言っていました。",
+     "Vincent said that he is going to Kyoto tomorrow."
+    ],
+    [
+     "バリはとてもきれいだそうです。",
+     "I heard that Bali is very beautiful."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 22.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "I heard that ... (a person or a source said so)",
+    "o": [
+     "Plain form + そうです。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Hearsay そうです can be compared with ～と言っていました (said that ...). Both pass on what someone else said."
+   }
+  },
+  {
+   "id": "src-22-5",
+   "lesson": 22,
+   "p": "～ようです",
+   "m": "It seems that ... / It looks like ...",
+   "form": "V (plain)・い-adj・な-adj な・N の + ようです。",
+   "note": "Use ようです to give your judgment about something based on what you see or sense. Attach it to the plain form, an い-adjective, a な-adjective (+な) or a noun (+の).",
+   "ex": [
+    [
+     "人があつまっていますね。じこのようですね。",
+     "Look, there is a crowd. It looks like an accident."
+    ],
+    [
+     "どうもかぜをひいたようだ。",
+     "I have a cough and a headache. It seems like I've caught a cold."
+    ],
+    [
+     "電気が消えていますね。もうだれもいないようです。",
+     "Lights are off. Seems like no one is here anymore."
+    ],
+    [
+     "料理はおいしいようです。",
+     "That restaurant is always so crowded. It seems like the food there is delicious."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 22.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "It seems that ... / It looks like ...",
+    "o": [
+     "V (plain)・い-adj・な-adj な・N の + ようです。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use ようです to give your judgment about something based on what you see or sense. Attach it to the plain form, an い-adjective, a な-adjective (+な) or a noun (+の)."
+   }
+  },
+  {
+   "id": "src-22-6",
+   "lesson": 22,
+   "p": "な / の + ようです",
+   "m": "It looks like ... (な-adjective / noun)",
+   "form": "な-adj + なようです / N + のようです",
+   "note": "A な-adjective takes な and a noun takes の before ようです.",
+   "ex": [
+    [
+     "田中さんはやさいを食べません。きらいなようです。",
+     "Ms Tanaka doesn't eat vegetables. It looks like she doesn't like it."
+    ],
+    [
+     "川田さんは病院に行きました。病気のようです。",
+     "Mr. Kawada went to the hospital. It looks like he is sick."
+    ],
+    [
+     "先生はかいぎ中です。そしてテーブルの上にたくさんのしょるいがおいてあります。いそがしいようです。",
+     "Teacher is in a meeting and his desk is piled with documents. It seems that he is busy."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 22.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "It looks like ... (な-adjective / noun)",
+    "o": [
+     "な-adj + なようです / N + のようです",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "A な-adjective takes な and a noun takes の before ようです."
+   }
+  },
+  {
+   "id": "src-22-7",
+   "lesson": 22,
+   "p": "～がします",
+   "m": "I hear / smell / taste ~",
+   "form": "音・こえ・におい・あじ + がします。",
+   "note": "Use がします with 音 (sound), こえ (voice), におい (smell) and あじ (taste) to say that you notice something with your senses.",
+   "ex": [
+    [
+     "へんな音がしますね。",
+     "There's a strange sound, isn't there?"
+    ],
+    [
+     "へんなにおいがしますね。ええ、何かもえているようです。",
+     "It smells weird. / Right, it seems something is burning."
+    ],
+    [
+     "へんなあじがするね。しょうゆとソースをまちがえたようです。",
+     "It tastes weird. It seems I got the soy sauce and sauce wrong."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 22.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "I hear / smell / taste ~",
+    "o": [
+     "音・こえ・におい・あじ + がします。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use がします with 音 (sound), こえ (voice), におい (smell) and あじ (taste) to say that you notice something with your senses."
+   }
+  },
+  {
+   "id": "src-23-3",
+   "lesson": 23,
+   "p": "Intransitive verb + を・に",
+   "m": "make / let someone do something (intransitive verb)",
+   "form": "Person は・が Person を・に Verb (causative form)。",
+   "note": "The person who gives the order (action teller) is the topic or subject, and the person who does the action (action doer) takes を or に before the causative verb.",
+   "ex": [
+    [
+     "ぼくは妹をなかせた。",
+     "I made my younger sister cry."
+    ],
+    [
+     "先生は子どもたちに自由にあそばせた。",
+     "The teacher let the children play freely."
+    ],
+    [
+     "店長はカミロに休ませた。",
+     "The store manager let Camilo rest."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 23.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "make / let someone do something (intransitive verb)",
+    "o": [
+     "Person は・が Person を・に Verb (causative form)。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "The person who gives the order (action teller) is the topic or subject, and the person who does the action (action doer) takes を or に before the causative verb."
+   }
+  },
+  {
+   "id": "src-23-4",
+   "lesson": 23,
+   "p": "Doer に + Object を",
+   "m": "make / let someone do something (with an object)",
+   "form": "Action Teller は Action Doer に Object を Verb (causative form)。",
+   "note": "When the verb has an object, the action doer is marked with に and the object with を.",
+   "ex": [
+    [
+     "部長は部下に仕事を休ませました。",
+     "The manager made/let his staff take time off from work."
+    ],
+    [
+     "先生はせいとに自由にいけんを言わせました。",
+     "The teacher let the students freely say their opinion."
+    ],
+    [
+     "父は兄にやりたいことをやらせます。",
+     "Dad lets my brother do what he wants to do."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 23.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "make / let someone do something (with an object)",
+    "o": [
+     "Action Teller は Action Doer に Object を Verb (causative form)。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "When the verb has an object, the action doer is marked with に and the object with を."
+   }
+  },
+  {
+   "id": "src-23-5",
+   "lesson": 23,
+   "p": "Emotion verbs and group-internal causes",
+   "m": "Verbs of emotion take を for the person made to feel something",
+   "form": "Person を Verb (causative form)",
+   "note": "With emotion verbs (しんぱいする, よろこぶ, かなしむ, おこる), the person who feels it takes を. Also used when telling an outsider that someone in your own group will do something.",
+   "ex": [
+    [
+     "子どものとき、体がよわくて、母をしんぱいさせました。",
+     "When I was a child, I made my mother worry because of my poor health."
+    ],
+    [
+     "あなたをかなしませたくない。",
+     "I don't want to make you sad."
+    ],
+    [
+     "かかりの者をむかえに行かせます。",
+     "When you arrive at the station, please call me. I will send someone to pick you up."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 23.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Verbs of emotion take を for the person made to feel something",
+    "o": [
+     "Person を Verb (causative form)",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "With emotion verbs (しんぱいする, よろこぶ, かなしむ, おこる), the person who feels it takes を. Also used when telling an outsider that someone in your own group will do something."
+   }
+  },
+  {
+   "id": "src-23-6",
+   "lesson": 23,
+   "p": "～させていただけませんか",
+   "m": "Would you please let me ...?",
+   "form": "Verb (causative form) て + いただけませんか。",
+   "note": "A polite request asking a person of higher status for permission to do something. Put the verb in the causative form, then add ていただけませんか。",
+   "ex": [
+    [
+     "コピーきを使わせていただけませんか。",
+     "Would you let me use the copying machine?"
+    ],
+    [
+     "ここにしばらく車を止めさせていただけませんか。",
+     "Would you let me park my car here for a while? I want to unload the luggage."
+    ],
+    [
+     "気分がわるいので、そうたいさせていただけませんか。",
+     "I'm not feeling well, would you please let me leave early?"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 23.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Would you please let me ...?",
+    "o": [
+     "Verb (causative form) て + いただけませんか。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "A polite request asking a person of higher status for permission to do something. Put the verb in the causative form, then add ていただけませんか。"
+   }
+  },
+  {
+   "id": "src-24-3",
+   "lesson": 24,
+   "p": "Passive form as respectful form",
+   "m": "Respectful (sonkeigo) form of a verb",
+   "form": "Subject は・が Verb (れる・られる passive form)",
+   "note": "The passive form of a verb can be used to show respect to the person doing the action. Group 1: 書きます → 書かれます. Group 2: 出ます → 出られます. Group 3: 来ます → 来られます, します → されます.",
+   "ex": [
+    [
+     "書きます → 書かれます",
+     "write"
+    ],
+    [
+     "出ます → 出られます",
+     "go out"
+    ],
+    [
+     "来ます → 来られます",
+     "come"
+    ],
+    [
+     "します → されます",
+     "do"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 24.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Respectful (sonkeigo) form of a verb",
+    "o": [
+     "Subject は・が Verb (れる・られる passive form)",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "The passive form of a verb can be used to show respect to the person doing the action. Group 1: 書きます → 書かれます. Group 2: 出ます → 出られます. Group 3: 来ます → 来られます, します → されます."
+   }
+  },
+  {
+   "id": "src-24-4",
+   "lesson": 24,
+   "p": "お + stem + になります",
+   "m": "More respectful pattern than the passive form",
+   "form": "Subject は お Verb (stem) になります。",
+   "note": "Put お before the verb stem and add になります. It cannot be used with one-mora verbs (見る, 寝る, 来る, する, 行く) or Group 3 verbs; special verbs are used instead.",
+   "ex": [
+    [
+     "この本をお書きになりましたか。",
+     "Did you write this book?"
+    ],
+    [
+     "かいぎのよていはいつも部長がお決めになります。",
+     "The plan for the meeting is always decided by the department head."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 24.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "More respectful pattern than the passive form",
+    "o": [
+     "Subject は お Verb (stem) になります。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Put お before the verb stem and add になります. It cannot be used with one-mora verbs (見る, 寝る, 来る, する, 行く) or Group 3 verbs; special verbs are used instead."
+   }
+  },
+  {
+   "id": "src-24-5",
+   "lesson": 24,
+   "p": "Special respectful verbs",
+   "m": "Special verbs that replace the normal verb",
+   "form": "Subject は・が Special respectful verb",
+   "note": "Some verbs have their own respectful form: いらっしゃいます (go / come / exist), おっしゃいます (say), めしあがります (eat / drink), ごらんになります (see), なさいます (do), ごぞんじです (know).",
+   "ex": [
+    [
+     "社長はぼうねんかいが来週になったことをごぞんじですか。",
+     "Does the president know the year-end party was moved to next week?"
+    ],
+    [
+     "せいひんをごらんになりますか。",
+     "Would you like to see our products?"
+    ],
+    [
+     "昨夜ゆっくりお休みになれましたか。",
+     "Could you sleep well last night?"
+    ],
+    [
+     "着物をおめしになっている方は坂本さんです。",
+     "The person wearing a kimono is Ms. Sakamoto."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 24.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Special verbs that replace the normal verb",
+    "o": [
+     "Subject は・が Special respectful verb",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Some verbs have their own respectful form: いらっしゃいます (go / come / exist), おっしゃいます (say), めしあがります (eat / drink), ごらんになります (see), なさいます (do), ごぞんじです (know)."
+   }
+  },
+  {
+   "id": "src-24-6",
+   "lesson": 24,
+   "p": "なさいます・くださいます・いらっしゃいます",
+   "m": "How long did you ~ / gave me / will he come",
+   "form": "Subject は・が Special respectful verb",
+   "note": "なさいます and くださいます are used for する and くれる, and いらっしゃいます also works in plain keigo (いらっしゃるの, いらっしゃらない).",
+   "ex": [
+    [
+     "どのぐらい日本語を勉強なさいましたか。",
+     "How long did you study Japanese?"
+    ],
+    [
+     "先生が本をくださいました。",
+     "Teacher gave me a book."
+    ],
+    [
+     "デシアンさんはぼうねんかいにいらっしゃいますか。",
+     "Will Mr. De Cyan be coming to the year-end party?"
+    ],
+    [
+     "いいえ、いらっしゃらないと思います。",
+     "No, I don't think he'll come."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 24.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "How long did you ~ / gave me / will he come",
+    "o": [
+     "Subject は・が Special respectful verb",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "なさいます and くださいます are used for する and くれる, and いらっしゃいます also works in plain keigo (いらっしゃるの, いらっしゃらない)."
+   }
+  },
+  {
+   "id": "src-24-7",
+   "lesson": 24,
+   "p": "お + stem + ください",
+   "m": "Respectful way of asking someone to do something",
+   "form": "Subject は お Verb (stem) ください。",
+   "note": "A respectful way to ask someone to do something. It cannot be used with the special verbs above, except for eat and look (おめしあがりください, ごらんください).",
+   "ex": [
+    [
+     "どうぞおめしあがりください。",
+     "Please help yourself."
+    ],
+    [
+     "どうぞごらんください。",
+     "Please take a look."
+    ],
+    [
+     "こちらにお名前とご住所をお書きください。",
+     "Please write your name and address here."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 24.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Respectful way of asking someone to do something",
+    "o": [
+     "Subject は お Verb (stem) ください。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "A respectful way to ask someone to do something. It cannot be used with the special verbs above, except for eat and look (おめしあがりください, ごらんください)."
+   }
+  },
+  {
+   "id": "src-24-8",
+   "lesson": 24,
+   "p": "お・ご",
+   "m": "Respectful form of nouns, adjectives and adverbs",
+   "form": "お + word of Japanese origin / ご + word of Chinese origin",
+   "note": "お is attached to words of Japanese origin and ご to words of Chinese origin. Keep the keigo level consistent within a sentence.",
+   "ex": [
+    [
+     "お国、お名前、お仕事、お水、お茶、お金",
+     "お is used with Japanese-origin words (Japanese: country / name / work / water / tea / money)"
+    ],
+    [
+     "ご家族、ご意見、ご旅行、ご注意、ご案内、ご両親",
+     "ご is used with Chinese-origin words (family / opinion / trip / caution / guide / parents)"
+    ],
+    [
+     "お元気、お上手、ご熱心、ご親切、ご自由に、ごゆっくり",
+     "Adjectives and adverbs"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 24.pptx",
+   "slide": 8,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Respectful form of nouns, adjectives and adverbs",
+    "o": [
+     "お + word of Japanese origin / ご + word of Chinese origin",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "お is attached to words of Japanese origin and ご to words of Chinese origin. Keep the keigo level consistent within a sentence."
+   }
+  },
+  {
+   "id": "src-25-3",
+   "lesson": 25,
+   "p": "お～します",
+   "m": "Humble speech for Group 1 and 2 verbs",
+   "form": "お Verb (stem) します",
+   "note": "Humble speech lowers your own action. To an outsider (外の人), your own family, company and friends count as insiders, so humble forms are used for their actions too.",
+   "ex": [
+    [
+     "兄が車でお送りします。",
+     "My older brother will take you in his car."
+    ],
+    [
+     "お茶をお入れします。",
+     "I'll pour you some tea."
+    ],
+    [
+     "ボールペンをお貸しします。",
+     "I'll lend you a pen."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 25.pptx",
+   "slide": 3,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Humble speech for Group 1 and 2 verbs",
+    "o": [
+     "お Verb (stem) します",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Humble speech lowers your own action. To an outsider (外の人), your own family, company and friends count as insiders, so humble forms are used for their actions too."
+   }
+  },
+  {
+   "id": "src-25-4",
+   "lesson": 25,
+   "p": "ご～します and exceptions",
+   "m": "Humble speech for Group 3 verbs",
+   "form": "ご Verb します",
+   "note": "Use ご with Group 3 verbs. Exceptions take お instead: お電話します (call) and おやくそくします (promise). お帰りします is not used for \"I'm going home\".",
+   "ex": [
+    [
+     "(someone)にお電話します",
+     "Call (someone)"
+    ],
+    [
+     "(someone)をごしょうかいします",
+     "Introduce (someone)"
+    ],
+    [
+     "(someone)をごしょうたいします",
+     "Invite (someone)"
+    ]
+   ],
+   "source": "N4 Grammar Lesson 25.pptx",
+   "slide": 4,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Humble speech for Group 3 verbs",
+    "o": [
+     "ご Verb します",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use ご with Group 3 verbs. Exceptions take お instead: お電話します (call) and おやくそくします (promise). お帰りします is not used for \"I'm going home\"."
+   }
+  },
+  {
+   "id": "src-25-5",
+   "lesson": 25,
+   "p": "Special humble words",
+   "m": "Special verbs that replace the normal verb",
+   "form": "Subject は Special humble verb",
+   "note": "Some verbs have their own humble form, for example おります (be), まいります / うかがいます (go / come), もうします (say), いただきます (receive / eat / drink), はいけんします (see) and いたします (do).",
+   "ex": [
+    [
+     "社長はそちらへ8時にまいります。",
+     "My boss will go there at 8am."
+    ],
+    [
+     "はい、ぞんじております。",
+     "Do you know the name of the man who spoke at the meeting? / Yes, I do."
+    ],
+    [
+     "ぞんじません。",
+     "I don't know."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 25.pptx",
+   "slide": 5,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Special verbs that replace the normal verb",
+    "o": [
+     "Subject は Special humble verb",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Some verbs have their own humble form, for example おります (be), まいります / うかがいます (go / come), もうします (say), いただきます (receive / eat / drink), はいけんします (see) and いたします (do)."
+   }
+  },
+  {
+   "id": "src-25-6",
+   "lesson": 25,
+   "p": "～でございます",
+   "m": "Polite equivalent of です",
+   "form": "Noun・Adjective + でございます",
+   "note": "でございます is the polite equivalent of です and is often used in business and service situations.",
+   "ex": [
+    [
+     "はい、住友銀行でございます。",
+     "Yes, this is Sumitomo Bank."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 25.pptx",
+   "slide": 6,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Polite equivalent of です",
+    "o": [
+     "Noun・Adjective + でございます",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "でございます is the polite equivalent of です and is often used in business and service situations."
+   }
+  },
+  {
+   "id": "src-25-7",
+   "lesson": 25,
+   "p": "～よろしいでしょうか",
+   "m": "Polite equivalent of いいですか",
+   "form": "～ても よろしいでしょうか。",
+   "note": "Use よろしいでしょうか in place of いいですか when you ask for permission politely.",
+   "ex": [
+    [
+     "このパンフレットをいただいてもよろしいでしょうか。",
+     "May I have one of these pamphlets? / Yes, go ahead."
+    ]
+   ],
+   "source": "N4 Grammar Lesson 25.pptx",
+   "slide": 7,
+   "importance": 1,
+   "importanceReason": "Equal priority: no source importance ranking supplied",
+   "q": {
+    "s": "Polite equivalent of いいですか",
+    "o": [
+     "～ても よろしいでしょうか。",
+     "Main Sentence んです。",
+     "Main Sentence んですか。",
+     "～んですが、～。"
+    ],
+    "a": 0,
+    "e": "Use よろしいでしょうか in place of いいですか when you ask for permission politely."
+   }
+  }
+ ],
+ "ordering": [
+  {
+   "id": 1,
+   "s": "わたしは ＿＿ ＿＿ ＿★＿ ＿＿ いきます。",
+   "parts": [
+    "ともだちと",
+    "いっしょに",
+    "えいがを",
+    "みに"
+   ],
+   "e": "ともだちと いっしょに えいがを みに いきます。 = I'm going with a friend to see a movie. (みに = purpose of going)"
+  },
+  {
+   "id": 2,
+   "s": "きのうは ＿＿ ＿＿ ＿★＿ ＿＿ いました。",
+   "parts": [
+    "あめが",
+    "ふって",
+    "いたので",
+    "うちに"
+   ],
+   "e": "あめが ふって いたので うちに いました。 = It was raining, so I stayed home."
+  },
+  {
+   "id": 3,
+   "s": "この ほんは ＿＿ ＿＿ ＿★＿ ＿＿ です。",
+   "parts": [
+    "すこし",
+    "むずかしい",
+    "けど",
+    "おもしろい"
+   ],
+   "e": "すこし むずかしい けど おもしろい です。 = It's a little difficult, but interesting."
+  },
+  {
+   "id": 4,
+   "s": "かれは ＿＿ ＿＿ ＿★＿ ＿＿ ようです。",
+   "parts": [
+    "きのう",
+    "びょうきで",
+    "がっこうを",
+    "やすんだ"
+   ],
+   "e": "きのう びょうきで がっこうを やすんだ ようです。 = He seems to have been absent from school yesterday because of illness."
+  },
+  {
+   "id": 5,
+   "s": "＿＿ ＿＿ ＿★＿ ＿＿ ことが あります。",
+   "parts": [
+    "まえに",
+    "いちど",
+    "ふじさんに",
+    "のぼった"
+   ],
+   "e": "まえに いちど ふじさんに のぼった ことが あります。 = I have climbed Mt. Fuji once before."
+  }
+ ]
+}

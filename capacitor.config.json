@@ -1,0 +1,7 @@
+{
+  "appId": "app.kaizen.n4",
+  "appName": "Kaizen N4",
+  "webDir": "dist",
+  "backgroundColor": "#f5f7fb",
+  "server": { "androidScheme": "https" }
+}
